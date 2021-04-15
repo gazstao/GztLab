@@ -1,0 +1,4860 @@
+##########################################
+Gazstao Data Parser (c) 2021-04-11
+Informacoes sobre o coronavirus carregadas do arquivo:
+/Users/gazstao/github/covid-19-data/public/data/latest/owid-covid-latest.json.
+##########################################
+
+
+Reference date: 2021-04-13
+Location: Afghanistan
+
+Population: 38,928,341.0
+Median Age: 18.6
+Age 65 and older: 2.58 %
+Age 70 and older: 1.34 %
+Life Expectancy: 64.83
+
+Total cases: 57,364.0
+Total deaths: 2,529.0
+Total vaccinations: 120,000.0
+People fully vaccinated: None
+People vaccinated: 120,000.0
+Total cases per million: 1,473.579
+Total deaths per million: 64.966
+
+New cases: 122.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 3.134
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Africa
+
+Population: 1,340,598,113.0
+Median Age: None
+Age 65 and older: None
+Age 70 and older: None
+Life Expectancy: None
+
+Total cases: 4,370,297.0
+Total deaths: 116,378.0
+Total vaccinations: 13,675,508.0
+People fully vaccinated: 4,532,056.0
+People vaccinated: 9,266,078.0
+Total cases per million: 3,259.961
+Total deaths per million: 86.811
+
+New cases: 9,910.0
+New deaths: 404.0
+New vaccinations: 35,075.0
+New cases per million: 7.392
+New new_deaths_per_million: 0.301
+
+Reference date: 2021-04-13
+Location: Albania
+
+Population: 2,877,800.0
+Median Age: 38.0
+Age 65 and older: 13.19 %
+Age 70 and older: 8.64 %
+Life Expectancy: 78.57
+
+Total cases: 128,752.0
+Total deaths: 2,326.0
+Total vaccinations: 281,216.0
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 44,739.732
+Total deaths per million: 808.256
+
+New cases: 234.0
+New deaths: 5.0
+New vaccinations: 13,685.0
+New cases per million: 81.312
+New new_deaths_per_million: 1.737
+
+Reference date: 2021-04-13
+Location: Algeria
+
+Population: 43,851,043.0
+Median Age: 29.1
+Age 65 and older: 6.21 %
+Age 70 and older: 3.86 %
+Life Expectancy: 76.88
+
+Total cases: 118,799.0
+Total deaths: 3,137.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 2,709.149
+Total deaths per million: 71.538
+
+New cases: 154.0
+New deaths: 3.0
+New vaccinations: None
+New cases per million: 3.512
+New new_deaths_per_million: 0.068
+
+Reference date: 2021-04-13
+Location: Andorra
+
+Population: 77,265.0
+Median Age: None
+Age 65 and older: None
+Age 70 and older: None
+Life Expectancy: 83.73
+
+Total cases: 12,614.0
+Total deaths: 121.0
+Total vaccinations: 17,091.0
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 163,256.326
+Total deaths per million: 1,566.039
+
+New cases: 33.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 427.102
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Angola
+
+Population: 32,866,268.0
+Median Age: 16.8
+Age 65 and older: 2.40 %
+Age 70 and older: 1.36 %
+Life Expectancy: 61.15
+
+Total cases: 23,697.0
+Total deaths: 554.0
+Total vaccinations: 245,442.0
+People fully vaccinated: None
+People vaccinated: 245,442.0
+Total cases per million: 721.013
+Total deaths per million: 16.856
+
+New cases: 148.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 4.503
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-12
+Location: Anguilla
+
+Population: 15,002.0
+Median Age: None
+Age 65 and older: None
+Age 70 and older: None
+Life Expectancy: 81.88
+
+Total cases: None
+Total deaths: None
+Total vaccinations: 5,835.0
+People fully vaccinated: None
+People vaccinated: 5,835.0
+Total cases per million: None
+Total deaths per million: None
+
+New cases: None
+New deaths: None
+New vaccinations: None
+New cases per million: None
+New new_deaths_per_million: None
+
+Reference date: 2021-04-13
+Location: Antigua and Barbuda
+
+Population: 97,928.0
+Median Age: 32.1
+Age 65 and older: 6.93 %
+Age 70 and older: 4.63 %
+Life Expectancy: 77.02
+
+Total cases: 1,201.0
+Total deaths: 31.0
+Total vaccinations: 27,032.0
+People fully vaccinated: None
+People vaccinated: 27,032.0
+Total cases per million: 12,264.112
+Total deaths per million: 316.559
+
+New cases: 3.0
+New deaths: 1.0
+New vaccinations: None
+New cases per million: 30.635
+New new_deaths_per_million: 10.212
+
+Reference date: 2021-04-13
+Location: Argentina
+
+Population: 45,195,777.0
+Median Age: 31.9
+Age 65 and older: 11.20 %
+Age 70 and older: 7.44 %
+Life Expectancy: 76.67
+
+Total cases: 2,579,000.0
+Total deaths: 58,174.0
+Total vaccinations: 5,571,878.0
+People fully vaccinated: 735,632.0
+People vaccinated: 4,836,246.0
+Total cases per million: 57,062.853
+Total deaths per million: 1,287.156
+
+New cases: 27,001.0
+New deaths: 217.0
+New vaccinations: 181,878.0
+New cases per million: 597.423
+New new_deaths_per_million: 4.801
+
+Reference date: 2021-04-13
+Location: Armenia
+
+Population: 2,963,234.0
+Median Age: 35.7
+Age 65 and older: 11.23 %
+Age 70 and older: 7.57 %
+Life Expectancy: 75.09
+
+Total cases: 204,053.0
+Total deaths: 3,775.0
+Total vaccinations: 565.0
+People fully vaccinated: None
+People vaccinated: 565.0
+Total cases per million: 68,861.588
+Total deaths per million: 1,273.946
+
+New cases: 726.0
+New deaths: 22.0
+New vaccinations: None
+New cases per million: 245.003
+New new_deaths_per_million: 7.424
+
+Reference date: 2021-04-13
+Location: Asia
+
+Population: 4,639,847,425.0
+Median Age: None
+Age 65 and older: None
+Age 70 and older: None
+Life Expectancy: None
+
+Total cases: 31,876,886.0
+Total deaths: 453,162.0
+Total vaccinations: 375,863,212.0
+People fully vaccinated: 38,332,871.0
+People vaccinated: 148,711,667.0
+Total cases per million: 6,870.244
+Total deaths per million: 97.667
+
+New cases: 332,794.0
+New deaths: 2,426.0
+New vaccinations: 7,276,255.0
+New cases per million: 71.725
+New new_deaths_per_million: 0.523
+
+Reference date: 2021-04-13
+Location: Australia
+
+Population: 25,499,881.0
+Median Age: 37.9
+Age 65 and older: 15.50 %
+Age 70 and older: 10.13 %
+Life Expectancy: 83.44
+
+Total cases: 29,450.0
+Total deaths: 910.0
+Total vaccinations: 1,234,681.0
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 1,154.907
+Total deaths per million: 35.686
+
+New cases: 21.0
+New deaths: 0.0
+New vaccinations: 56,379.0
+New cases per million: 0.824
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Austria
+
+Population: 9,006,400.0
+Median Age: 44.4
+Age 65 and older: 19.20 %
+Age 70 and older: 13.75 %
+Life Expectancy: 81.54
+
+Total cases: 581,263.0
+Total deaths: 9,748.0
+Total vaccinations: 2,197,468.0
+People fully vaccinated: 644,952.0
+People vaccinated: 1,552,516.0
+Total cases per million: 64,538.883
+Total deaths per million: 1,082.341
+
+New cases: 2,313.0
+New deaths: 42.0
+New vaccinations: 39,724.0
+New cases per million: 256.817
+New new_deaths_per_million: 4.663
+
+Reference date: 2021-04-13
+Location: Azerbaijan
+
+Population: 10,139,175.0
+Median Age: 32.4
+Age 65 and older: 6.02 %
+Age 70 and older: 3.87 %
+Life Expectancy: 73.0
+
+Total cases: 289,601.0
+Total deaths: 3,978.0
+Total vaccinations: 1,177,187.0
+People fully vaccinated: 418,898.0
+People vaccinated: 758,289.0
+Total cases per million: 28,562.58
+Total deaths per million: 392.34
+
+New cases: 2,457.0
+New deaths: 34.0
+New vaccinations: 100.0
+New cases per million: 242.327
+New new_deaths_per_million: 3.353
+
+Reference date: 2021-04-13
+Location: Bahamas
+
+Population: 393,248.0
+Median Age: 34.3
+Age 65 and older: 9.00 %
+Age 70 and older: 5.20 %
+Life Expectancy: 73.92
+
+Total cases: 9,505.0
+Total deaths: 190.0
+Total vaccinations: 10,000.0
+People fully vaccinated: None
+People vaccinated: 10,000.0
+Total cases per million: 24,170.498
+Total deaths per million: 483.156
+
+New cases: 45.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 114.432
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Bahrain
+
+Population: 1,701,583.0
+Median Age: 32.4
+Age 65 and older: 2.37 %
+Age 70 and older: 1.39 %
+Life Expectancy: 77.29
+
+Total cases: 158,789.0
+Total deaths: 566.0
+Total vaccinations: 989,363.0
+People fully vaccinated: 415,799.0
+People vaccinated: 573,564.0
+Total cases per million: 93,318.398
+Total deaths per million: 332.631
+
+New cases: 1,060.0
+New deaths: 4.0
+New vaccinations: 15,381.0
+New cases per million: 622.949
+New new_deaths_per_million: 2.351
+
+Reference date: 2021-04-13
+Location: Bangladesh
+
+Population: 164,689,383.0
+Median Age: 27.5
+Age 65 and older: 5.10 %
+Age 70 and older: 3.26 %
+Life Expectancy: 72.59
+
+Total cases: 697,985.0
+Total deaths: 9,891.0
+Total vaccinations: 6,172,159.0
+People fully vaccinated: 522,596.0
+People vaccinated: 5,649,563.0
+Total cases per million: 4,238.191
+Total deaths per million: 60.059
+
+New cases: 6,028.0
+New deaths: 69.0
+New vaccinations: 161,335.0
+New cases per million: 36.602
+New new_deaths_per_million: 0.419
+
+Reference date: 2021-04-13
+Location: Barbados
+
+Population: 287,371.0
+Median Age: 39.8
+Age 65 and older: 14.95 %
+Age 70 and older: 9.47 %
+Life Expectancy: 79.19
+
+Total cases: 3,740.0
+Total deaths: 44.0
+Total vaccinations: 65,873.0
+People fully vaccinated: None
+People vaccinated: 65,873.0
+Total cases per million: 13,014.535
+Total deaths per million: 153.112
+
+New cases: 6.0
+New deaths: 0.0
+New vaccinations: 6.0
+New cases per million: 20.879
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Belarus
+
+Population: 9,449,321.0
+Median Age: 40.3
+Age 65 and older: 14.80 %
+Age 70 and older: 9.79 %
+Life Expectancy: 74.79
+
+Total cases: 337,635.0
+Total deaths: 2,373.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: 92,000.0
+Total cases per million: 35,731.139
+Total deaths per million: 251.129
+
+New cases: 754.0
+New deaths: 10.0
+New vaccinations: None
+New cases per million: 79.794
+New new_deaths_per_million: 1.058
+
+Reference date: 2021-04-13
+Location: Belgium
+
+Population: 11,589,616.0
+Median Age: 41.8
+Age 65 and older: 18.57 %
+Age 70 and older: 12.85 %
+Life Expectancy: 81.63
+
+Total cases: 930,603.0
+Total deaths: 23,566.0
+Total vaccinations: 2,557,404.0
+People fully vaccinated: 631,448.0
+People vaccinated: 1,925,956.0
+Total cases per million: 80,296.276
+Total deaths per million: 2,033.372
+
+New cases: 3,374.0
+New deaths: 63.0
+New vaccinations: 29,499.0
+New cases per million: 291.123
+New new_deaths_per_million: 5.436
+
+Reference date: 2021-04-13
+Location: Belize
+
+Population: 397,621.0
+Median Age: 25.0
+Age 65 and older: 3.85 %
+Age 70 and older: 2.28 %
+Life Expectancy: 74.62
+
+Total cases: 12,513.0
+Total deaths: 318.0
+Total vaccinations: 29,939.0
+People fully vaccinated: None
+People vaccinated: 29,939.0
+Total cases per million: 31,469.666
+Total deaths per million: 799.757
+
+New cases: 10.0
+New deaths: 0.0
+New vaccinations: 1,751.0
+New cases per million: 25.15
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Benin
+
+Population: 12,123,198.0
+Median Age: 18.8
+Age 65 and older: 3.24 %
+Age 70 and older: 1.94 %
+Life Expectancy: 61.77
+
+Total cases: 7,515.0
+Total deaths: 93.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 619.886
+Total deaths per million: 7.671
+
+New cases: 0.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 0.0
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-10
+Location: Bermuda
+
+Population: 62,273.0
+Median Age: None
+Age 65 and older: None
+Age 70 and older: None
+Life Expectancy: 82.59
+
+Total cases: None
+Total deaths: None
+Total vaccinations: 45,761.0
+People fully vaccinated: 19,980.0
+People vaccinated: 25,781.0
+Total cases per million: None
+Total deaths per million: None
+
+New cases: None
+New deaths: None
+New vaccinations: None
+New cases per million: None
+New new_deaths_per_million: None
+
+Reference date: 2021-04-13
+Location: Bhutan
+
+Population: 771,612.0
+Median Age: 28.6
+Age 65 and older: 4.88 %
+Age 70 and older: 2.98 %
+Life Expectancy: 71.78
+
+Total cases: 927.0
+Total deaths: 1.0
+Total vaccinations: 476,740.0
+People fully vaccinated: None
+People vaccinated: 476,740.0
+Total cases per million: 1,201.381
+Total deaths per million: 1.296
+
+New cases: 6.0
+New deaths: 0.0
+New vaccinations: 1,089.0
+New cases per million: 7.776
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Bolivia
+
+Population: 11,673,029.0
+Median Age: 25.4
+Age 65 and older: 6.70 %
+Age 70 and older: 4.39 %
+Life Expectancy: 71.51
+
+Total cases: 284,183.0
+Total deaths: 12,496.0
+Total vaccinations: 465,896.0
+People fully vaccinated: 148,195.0
+People vaccinated: 317,701.0
+Total cases per million: 24,345.266
+Total deaths per million: 1,070.502
+
+New cases: 1,099.0
+New deaths: 27.0
+New vaccinations: 18,479.0
+New cases per million: 94.149
+New new_deaths_per_million: 2.313
+
+Reference date: 2021-04-13
+Location: Bosnia and Herzegovina
+
+Population: 3,280,815.0
+Median Age: 42.5
+Age 65 and older: 16.57 %
+Age 70 and older: 10.71 %
+Life Expectancy: 77.4
+
+Total cases: 184,698.0
+Total deaths: 7,487.0
+Total vaccinations: 15,000.0
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 56,296.378
+Total deaths per million: 2,282.055
+
+New cases: 0.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 0.0
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Botswana
+
+Population: 2,351,625.0
+Median Age: 25.8
+Age 65 and older: 3.94 %
+Age 70 and older: 2.24 %
+Life Expectancy: 69.59
+
+Total cases: 43,444.0
+Total deaths: 663.0
+Total vaccinations: 31,628.0
+People fully vaccinated: None
+People vaccinated: 31,628.0
+Total cases per million: 18,474.034
+Total deaths per million: 281.933
+
+New cases: 0.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 0.0
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Brazil
+
+Population: 212,559,409.0
+Median Age: 33.5
+Age 65 and older: 8.55 %
+Age 70 and older: 5.06 %
+Life Expectancy: 75.88
+
+Total cases: 13,599,994.0
+Total deaths: 358,425.0
+Total vaccinations: 30,801,723.0
+People fully vaccinated: 7,199,653.0
+People vaccinated: 23,602,070.0
+Total cases per million: 63,982.084
+Total deaths per million: 1,686.234
+
+New cases: 82,186.0
+New deaths: 3,808.0
+New vaccinations: 3,368,729.0
+New cases per million: 386.65
+New new_deaths_per_million: 17.915
+
+Reference date: 2021-04-13
+Location: Brunei
+
+Population: 437,483.0
+Median Age: 32.4
+Age 65 and older: 4.59 %
+Age 70 and older: 2.38 %
+Life Expectancy: 75.86
+
+Total cases: 219.0
+Total deaths: 3.0
+Total vaccinations: 2,323.0
+People fully vaccinated: None
+People vaccinated: 2,323.0
+Total cases per million: 500.591
+Total deaths per million: 6.857
+
+New cases: 0.0
+New deaths: 0.0
+New vaccinations: 340.0
+New cases per million: 0.0
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Bulgaria
+
+Population: 6,948,445.0
+Median Age: 44.7
+Age 65 and older: 20.80 %
+Age 70 and older: 13.27 %
+Life Expectancy: 75.05
+
+Total cases: 378,059.0
+Total deaths: 14,746.0
+Total vaccinations: 590,495.0
+People fully vaccinated: 116,423.0
+People vaccinated: 474,072.0
+Total cases per million: 54,409.152
+Total deaths per million: 2,122.201
+
+New cases: 2,944.0
+New deaths: 127.0
+New vaccinations: 10,503.0
+New cases per million: 423.692
+New new_deaths_per_million: 18.277
+
+Reference date: 2021-04-13
+Location: Burkina Faso
+
+Population: 20,903,278.0
+Median Age: 17.6
+Age 65 and older: 2.41 %
+Age 70 and older: 1.36 %
+Life Expectancy: 61.58
+
+Total cases: 12,989.0
+Total deaths: 153.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 621.386
+Total deaths per million: 7.319
+
+New cases: 0.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 0.0
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Burundi
+
+Population: 11,890,781.0
+Median Age: 17.5
+Age 65 and older: 2.56 %
+Age 70 and older: 1.50 %
+Life Expectancy: 61.58
+
+Total cases: 3,262.0
+Total deaths: 6.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 274.33
+Total deaths per million: 0.505
+
+New cases: 108.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 9.083
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Cambodia
+
+Population: 16,718,971.0
+Median Age: 25.6
+Age 65 and older: 4.41 %
+Age 70 and older: 2.38 %
+Life Expectancy: 69.82
+
+Total cases: 4,696.0
+Total deaths: 33.0
+Total vaccinations: 1,446,457.0
+People fully vaccinated: 276,428.0
+People vaccinated: 1,170,029.0
+Total cases per million: 280.879
+Total deaths per million: 1.974
+
+New cases: 181.0
+New deaths: 3.0
+New vaccinations: 74,921.0
+New cases per million: 10.826
+New new_deaths_per_million: 0.179
+
+Reference date: 2021-04-13
+Location: Cameroon
+
+Population: 26,545,864.0
+Median Age: 18.8
+Age 65 and older: 3.17 %
+Age 70 and older: 1.92 %
+Life Expectancy: 59.29
+
+Total cases: 61,731.0
+Total deaths: 919.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 2,325.447
+Total deaths per million: 34.619
+
+New cases: 0.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 0.0
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Canada
+
+Population: 37,742,157.0
+Median Age: 41.4
+Age 65 and older: 16.98 %
+Age 70 and older: 10.80 %
+Life Expectancy: 82.43
+
+Total cases: 1,085,905.0
+Total deaths: 23,370.0
+Total vaccinations: 8,601,331.0
+People fully vaccinated: 829,067.0
+People vaccinated: 7,772,264.0
+Total cases per million: 28,771.673
+Total deaths per million: 619.201
+
+New cases: 7,423.0
+New deaths: 34.0
+New vaccinations: 270,433.0
+New cases per million: 196.677
+New new_deaths_per_million: 0.901
+
+Reference date: 2021-04-13
+Location: Cape Verde
+
+Population: 555,988.0
+Median Age: 25.7
+Age 65 and older: 4.46 %
+Age 70 and older: 3.44 %
+Life Expectancy: 72.98
+
+Total cases: 19,231.0
+Total deaths: 187.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 34,588.876
+Total deaths per million: 336.338
+
+New cases: 121.0
+New deaths: 3.0
+New vaccinations: None
+New cases per million: 217.631
+New new_deaths_per_million: 5.396
+
+Reference date: 2021-04-13
+Location: Cayman Islands
+
+Population: 65,720.0
+Median Age: None
+Age 65 and older: None
+Age 70 and older: None
+Life Expectancy: 83.92
+
+Total cases: None
+Total deaths: None
+Total vaccinations: 59,473.0
+People fully vaccinated: 26,504.0
+People vaccinated: 32,969.0
+Total cases per million: None
+Total deaths per million: None
+
+New cases: None
+New deaths: None
+New vaccinations: 1,161.0
+New cases per million: None
+New new_deaths_per_million: None
+
+Reference date: 2021-04-13
+Location: Central African Republic
+
+Population: 4,829,764.0
+Median Age: 18.3
+Age 65 and older: 3.65 %
+Age 70 and older: 2.25 %
+Life Expectancy: 53.28
+
+Total cases: 5,682.0
+Total deaths: 75.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 1,176.455
+Total deaths per million: 15.529
+
+New cases: 191.0
+New deaths: 1.0
+New vaccinations: None
+New cases per million: 39.546
+New new_deaths_per_million: 0.207
+
+Reference date: 2021-04-13
+Location: Chad
+
+Population: 16,425,859.0
+Median Age: 16.7
+Age 65 and older: 2.49 %
+Age 70 and older: 1.45 %
+Life Expectancy: 54.24
+
+Total cases: 4,652.0
+Total deaths: 167.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 283.212
+Total deaths per million: 10.167
+
+New cases: 11.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 0.67
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Chile
+
+Population: 19,116,209.0
+Median Age: 35.4
+Age 65 and older: 11.09 %
+Age 70 and older: 6.94 %
+Life Expectancy: 80.18
+
+Total cases: 1,088,710.0
+Total deaths: 24,518.0
+Total vaccinations: 12,259,848.0
+People fully vaccinated: 4,815,079.0
+People vaccinated: 7,444,769.0
+Total cases per million: 56,952.192
+Total deaths per million: 1,282.576
+
+New cases: 5,790.0
+New deaths: 35.0
+New vaccinations: 220,800.0
+New cases per million: 302.884
+New new_deaths_per_million: 1.831
+
+Reference date: 2021-04-13
+Location: China
+
+Population: 1,439,323,774.0
+Median Age: 38.7
+Age 65 and older: 10.64 %
+Age 70 and older: 5.93 %
+Life Expectancy: 76.91
+
+Total cases: 102,103.0
+Total deaths: 4,844.0
+Total vaccinations: 175,623,000.0
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 70.938
+Total deaths per million: 3.365
+
+New cases: 25.0
+New deaths: 1.0
+New vaccinations: 3,695,000.0
+New cases per million: 0.017
+New new_deaths_per_million: 0.001
+
+Reference date: 2021-04-13
+Location: Colombia
+
+Population: 50,882,884.0
+Median Age: 32.2
+Age 65 and older: 7.65 %
+Age 70 and older: 4.31 %
+Life Expectancy: 77.29
+
+Total cases: 2,569,314.0
+Total deaths: 66,482.0
+Total vaccinations: 3,173,583.0
+People fully vaccinated: 914,757.0
+People vaccinated: 2,258,826.0
+Total cases per million: 50,494.661
+Total deaths per million: 1,306.569
+
+New cases: 16,377.0
+New deaths: 326.0
+New vaccinations: 82,912.0
+New cases per million: 321.857
+New new_deaths_per_million: 6.407
+
+Reference date: 2021-04-13
+Location: Comoros
+
+Population: 869,595.0
+Median Age: 20.4
+Age 65 and older: 2.96 %
+Age 70 and older: 1.73 %
+Life Expectancy: 64.32
+
+Total cases: 3,796.0
+Total deaths: 146.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 4,365.25
+Total deaths per million: 167.894
+
+New cases: 7.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 8.05
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Congo
+
+Population: 5,518,092.0
+Median Age: 19.0
+Age 65 and older: 3.40 %
+Age 70 and older: 2.06 %
+Life Expectancy: 64.57
+
+Total cases: 10,084.0
+Total deaths: 137.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 1,827.443
+Total deaths per million: 24.827
+
+New cases: 0.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 0.0
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Costa Rica
+
+Population: 5,094,114.0
+Median Age: 33.6
+Age 65 and older: 9.47 %
+Age 70 and older: 5.69 %
+Life Expectancy: 80.28
+
+Total cases: 225,343.0
+Total deaths: 3,044.0
+Total vaccinations: 586,799.0
+People fully vaccinated: 232,508.0
+People vaccinated: 354,291.0
+Total cases per million: 44,235.955
+Total deaths per million: 597.552
+
+New cases: 2,799.0
+New deaths: 26.0
+New vaccinations: None
+New cases per million: 549.458
+New new_deaths_per_million: 5.104
+
+Reference date: 2021-04-13
+Location: Cote d'Ivoire
+
+Population: 26,378,275.0
+Median Age: 18.7
+Age 65 and older: 2.93 %
+Age 70 and older: 1.58 %
+Life Expectancy: 57.78
+
+Total cases: 45,265.0
+Total deaths: 269.0
+Total vaccinations: 68,843.0
+People fully vaccinated: None
+People vaccinated: 68,843.0
+Total cases per million: 1,715.995
+Total deaths per million: 10.198
+
+New cases: 38.0
+New deaths: 1.0
+New vaccinations: 2,347.0
+New cases per million: 1.441
+New new_deaths_per_million: 0.038
+
+Reference date: 2021-04-13
+Location: Croatia
+
+Population: 4,105,268.0
+Median Age: 44.0
+Age 65 and older: 19.72 %
+Age 70 and older: 13.05 %
+Life Expectancy: 78.49
+
+Total cases: 294,874.0
+Total deaths: 6,358.0
+Total vaccinations: 595,369.0
+People fully vaccinated: 111,544.0
+People vaccinated: 483,825.0
+Total cases per million: 71,828.197
+Total deaths per million: 1,548.742
+
+New cases: 1,936.0
+New deaths: 25.0
+New vaccinations: 7,186.0
+New cases per million: 471.589
+New new_deaths_per_million: 6.09
+
+Reference date: 2021-04-13
+Location: Cuba
+
+Population: 11,326,616.0
+Median Age: 43.1
+Age 65 and older: 14.74 %
+Age 70 and older: 9.72 %
+Life Expectancy: 78.8
+
+Total cases: 88,445.0
+Total deaths: 476.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 7,808.599
+Total deaths per million: 42.025
+
+New cases: 1,060.0
+New deaths: 9.0
+New vaccinations: None
+New cases per million: 93.585
+New new_deaths_per_million: 0.795
+
+Reference date: 2021-04-13
+Location: Cyprus
+
+Population: 875,899.0
+Median Age: 37.3
+Age 65 and older: 13.42 %
+Age 70 and older: 8.56 %
+Life Expectancy: 80.98
+
+Total cases: 52,652.0
+Total deaths: 274.0
+Total vaccinations: 183,225.0
+People fully vaccinated: 52,288.0
+People vaccinated: 130,937.0
+Total cases per million: 60,111.954
+Total deaths per million: 312.821
+
+New cases: 619.0
+New deaths: 1.0
+New vaccinations: None
+New cases per million: 706.702
+New new_deaths_per_million: 1.142
+
+Reference date: 2021-04-13
+Location: Czechia
+
+Population: 10,708,982.0
+Median Age: 43.3
+Age 65 and older: 19.03 %
+Age 70 and older: 11.58 %
+Life Expectancy: 79.38
+
+Total cases: 1,585,037.0
+Total deaths: 28,038.0
+Total vaccinations: 2,209,859.0
+People fully vaccinated: 768,250.0
+People vaccinated: 1,441,609.0
+Total cases per million: 148,010.054
+Total deaths per million: 2,618.176
+
+New cases: 3,853.0
+New deaths: 120.0
+New vaccinations: 53,527.0
+New cases per million: 359.791
+New new_deaths_per_million: 11.206
+
+Reference date: 2021-04-13
+Location: Democratic Republic of Congo
+
+Population: 89,561,404.0
+Median Age: 17.0
+Age 65 and older: 3.02 %
+Age 70 and older: 1.75 %
+Life Expectancy: 60.68
+
+Total cases: 28,665.0
+Total deaths: 745.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 320.06
+Total deaths per million: 8.318
+
+New cases: 123.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 1.373
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Denmark
+
+Population: 5,792,203.0
+Median Age: 42.3
+Age 65 and older: 19.68 %
+Age 70 and older: 12.32 %
+Life Expectancy: 80.9
+
+Total cases: 239,561.0
+Total deaths: 2,447.0
+Total vaccinations: 1,438,148.0
+People fully vaccinated: 461,206.0
+People vaccinated: 976,942.0
+Total cases per million: 41,359.22
+Total deaths per million: 422.464
+
+New cases: 563.0
+New deaths: 3.0
+New vaccinations: 104,715.0
+New cases per million: 97.2
+New new_deaths_per_million: 0.518
+
+Reference date: 2021-04-13
+Location: Djibouti
+
+Population: 988,002.0
+Median Age: 25.4
+Age 65 and older: 4.21 %
+Age 70 and older: 2.38 %
+Life Expectancy: 67.11
+
+Total cases: 10,077.0
+Total deaths: 102.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 10,199.372
+Total deaths per million: 103.239
+
+New cases: 102.0
+New deaths: 2.0
+New vaccinations: None
+New cases per million: 103.239
+New new_deaths_per_million: 2.024
+
+Reference date: 2021-04-13
+Location: Dominica
+
+Population: 71,991.0
+Median Age: None
+Age 65 and older: None
+Age 70 and older: None
+Life Expectancy: 75.0
+
+Total cases: 165.0
+Total deaths: None
+Total vaccinations: 18,112.0
+People fully vaccinated: 337.0
+People vaccinated: 17,775.0
+Total cases per million: 2,291.953
+Total deaths per million: None
+
+New cases: 0.0
+New deaths: None
+New vaccinations: None
+New cases per million: 0.0
+New new_deaths_per_million: None
+
+Reference date: 2021-04-13
+Location: Dominican Republic
+
+Population: 10,847,904.0
+Median Age: 27.6
+Age 65 and older: 6.98 %
+Age 70 and older: 4.42 %
+Life Expectancy: 74.08
+
+Total cases: 258,637.0
+Total deaths: 3,397.0
+Total vaccinations: 1,101,528.0
+People fully vaccinated: 101,528.0
+People vaccinated: 1,000,000.0
+Total cases per million: 23,842.117
+Total deaths per million: 313.148
+
+New cases: 598.0
+New deaths: 5.0
+New vaccinations: None
+New cases per million: 55.126
+New new_deaths_per_million: 0.461
+
+Reference date: 2021-04-13
+Location: Ecuador
+
+Population: 17,643,060.0
+Median Age: 28.1
+Age 65 and older: 7.10 %
+Age 70 and older: 4.46 %
+Life Expectancy: 77.01
+
+Total cases: 347,589.0
+Total deaths: 17,351.0
+Total vaccinations: 457,460.0
+People fully vaccinated: 183,300.0
+People vaccinated: 274,160.0
+Total cases per million: 19,701.174
+Total deaths per million: 983.446
+
+New cases: 519.0
+New deaths: 53.0
+New vaccinations: 21,690.0
+New cases per million: 29.417
+New new_deaths_per_million: 3.004
+
+Reference date: 2021-04-13
+Location: Egypt
+
+Population: 102,334,403.0
+Median Age: 25.3
+Age 65 and older: 5.16 %
+Age 70 and older: 2.89 %
+Life Expectancy: 71.99
+
+Total cases: 212,130.0
+Total deaths: 12,526.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: 148,987.0
+Total cases per million: 2,072.91
+Total deaths per million: 122.403
+
+New cases: 823.0
+New deaths: 39.0
+New vaccinations: None
+New cases per million: 8.042
+New new_deaths_per_million: 0.381
+
+Reference date: 2021-04-13
+Location: El Salvador
+
+Population: 6,486,201.0
+Median Age: 27.6
+Age 65 and older: 8.27 %
+Age 70 and older: 5.42 %
+Life Expectancy: 73.32
+
+Total cases: 66,816.0
+Total deaths: 2,057.0
+Total vaccinations: 310,793.0
+People fully vaccinated: None
+People vaccinated: 200,000.0
+Total cases per million: 10,301.253
+Total deaths per million: 317.135
+
+New cases: 327.0
+New deaths: 3.0
+New vaccinations: 46,634.0
+New cases per million: 50.415
+New new_deaths_per_million: 0.463
+
+Reference date: 2021-04-13
+Location: Equatorial Guinea
+
+Population: 1,402,985.0
+Median Age: 22.4
+Age 65 and older: 2.85 %
+Age 70 and older: 1.75 %
+Life Expectancy: 58.74
+
+Total cases: 7,219.0
+Total deaths: 106.0
+Total vaccinations: 14,080.0
+People fully vaccinated: 2,990.0
+People vaccinated: 11,090.0
+Total cases per million: 5,145.458
+Total deaths per million: 75.553
+
+New cases: 0.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 0.0
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Eritrea
+
+Population: 3,546,427.0
+Median Age: 19.3
+Age 65 and older: 3.61 %
+Age 70 and older: 2.17 %
+Life Expectancy: 66.32
+
+Total cases: 3,469.0
+Total deaths: 10.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 978.168
+Total deaths per million: 2.82
+
+New cases: 3.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 0.846
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Estonia
+
+Population: 1,326,539.0
+Median Age: 42.7
+Age 65 and older: 19.45 %
+Age 70 and older: 13.49 %
+Life Expectancy: 78.74
+
+Total cases: 115,080.0
+Total deaths: 1,049.0
+Total vaccinations: 336,062.0
+People fully vaccinated: 75,265.0
+People vaccinated: 260,797.0
+Total cases per million: 86,752.067
+Total deaths per million: 790.78
+
+New cases: 637.0
+New deaths: 12.0
+New vaccinations: 1,628.0
+New cases per million: 480.197
+New new_deaths_per_million: 9.046
+
+Reference date: 2021-04-13
+Location: Eswatini
+
+Population: 1,160,164.0
+Median Age: 21.5
+Age 65 and older: 3.16 %
+Age 70 and older: 1.84 %
+Life Expectancy: 60.19
+
+Total cases: 18,402.0
+Total deaths: 669.0
+Total vaccinations: 20,262.0
+People fully vaccinated: None
+People vaccinated: 20,262.0
+Total cases per million: 15,861.551
+Total deaths per million: 576.643
+
+New cases: 9.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 7.758
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Ethiopia
+
+Population: 114,963,583.0
+Median Age: 19.8
+Age 65 and older: 3.53 %
+Age 70 and older: 2.06 %
+Life Expectancy: 66.6
+
+Total cases: 232,512.0
+Total deaths: 3,230.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 2,022.484
+Total deaths per million: 28.096
+
+New cases: 1,568.0
+New deaths: 22.0
+New vaccinations: None
+New cases per million: 13.639
+New new_deaths_per_million: 0.191
+
+Reference date: 2021-04-13
+Location: Europe
+
+Population: 748,680,069.0
+Median Age: None
+Age 65 and older: None
+Age 70 and older: None
+Life Expectancy: None
+
+Total cases: 42,215,096.0
+Total deaths: 960,665.0
+Total vaccinations: 162,635,423.0
+People fully vaccinated: 43,703,617.0
+People vaccinated: 118,677,656.0
+Total cases per million: 56,386.029
+Total deaths per million: 1,283.145
+
+New cases: 193,193.0
+New deaths: 4,061.0
+New vaccinations: 2,292,591.0
+New cases per million: 258.045
+New new_deaths_per_million: 5.424
+
+Reference date: 2021-04-13
+Location: European Union
+
+Population: 444,919,060.0
+Median Age: None
+Age 65 and older: None
+Age 70 and older: None
+Life Expectancy: None
+
+Total cases: 28,656,192.0
+Total deaths: 649,338.0
+Total vaccinations: 100,768,956.0
+People fully vaccinated: 27,988,858.0
+People vaccinated: 72,780,096.0
+Total cases per million: 64,407.652
+Total deaths per million: 1,459.452
+
+New cases: 159,192.0
+New deaths: 3,084.0
+New vaccinations: 1,936,227.0
+New cases per million: 357.8
+New new_deaths_per_million: 6.932
+
+Reference date: 2021-04-13
+Location: Faeroe Islands
+
+Population: 48,865.0
+Median Age: None
+Age 65 and older: None
+Age 70 and older: None
+Life Expectancy: 80.67
+
+Total cases: None
+Total deaths: None
+Total vaccinations: 13,131.0
+People fully vaccinated: 4,257.0
+People vaccinated: 8,874.0
+Total cases per million: None
+Total deaths per million: None
+
+New cases: None
+New deaths: None
+New vaccinations: 502.0
+New cases per million: None
+New new_deaths_per_million: None
+
+Reference date: 2021-04-07
+Location: Falkland Islands
+
+Population: 3,483.0
+Median Age: None
+Age 65 and older: None
+Age 70 and older: None
+Life Expectancy: 81.44
+
+Total cases: None
+Total deaths: None
+Total vaccinations: 4,322.0
+People fully vaccinated: 1,717.0
+People vaccinated: 2,605.0
+Total cases per million: None
+Total deaths per million: None
+
+New cases: None
+New deaths: None
+New vaccinations: None
+New cases per million: None
+New new_deaths_per_million: None
+
+Reference date: 2021-04-13
+Location: Fiji
+
+Population: 896,444.0
+Median Age: 28.6
+Age 65 and older: 6.22 %
+Age 70 and older: 3.28 %
+Life Expectancy: 67.44
+
+Total cases: 68.0
+Total deaths: 2.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 75.855
+Total deaths per million: 2.231
+
+New cases: 0.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 0.0
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Finland
+
+Population: 5,540,718.0
+Median Age: 42.8
+Age 65 and older: 21.23 %
+Age 70 and older: 13.26 %
+Life Expectancy: 81.91
+
+Total cases: 82,564.0
+Total deaths: 877.0
+Total vaccinations: 1,293,219.0
+People fully vaccinated: 102,879.0
+People vaccinated: 1,190,340.0
+Total cases per million: 14,901.318
+Total deaths per million: 158.283
+
+New cases: 286.0
+New deaths: 3.0
+New vaccinations: 63,980.0
+New cases per million: 51.618
+New new_deaths_per_million: 0.541
+
+Reference date: 2021-04-13
+Location: France
+
+Population: 68,147,687.0
+Median Age: 42.0
+Age 65 and older: 19.72 %
+Age 70 and older: 13.08 %
+Life Expectancy: 82.66
+
+Total cases: 5,167,265.0
+Total deaths: 99,639.0
+Total vaccinations: 14,894,517.0
+People fully vaccinated: 3,837,266.0
+People vaccinated: 11,057,251.0
+Total cases per million: 75,824.51
+Total deaths per million: 1,462.104
+
+New cases: 39,125.0
+New deaths: 345.0
+New vaccinations: 357,805.0
+New cases per million: 574.121
+New new_deaths_per_million: 5.063
+
+Reference date: 2021-04-13
+Location: Gabon
+
+Population: 2,225,728.0
+Median Age: 23.1
+Age 65 and older: 4.45 %
+Age 70 and older: 2.98 %
+Life Expectancy: 66.47
+
+Total cases: 20,971.0
+Total deaths: 129.0
+Total vaccinations: 3,925.0
+People fully vaccinated: None
+People vaccinated: 3,925.0
+Total cases per million: 9,422.086
+Total deaths per million: 57.959
+
+New cases: 0.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 0.0
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Gambia
+
+Population: 2,416,664.0
+Median Age: 17.5
+Age 65 and older: 2.34 %
+Age 70 and older: 1.42 %
+Life Expectancy: 62.05
+
+Total cases: 5,602.0
+Total deaths: 168.0
+Total vaccinations: 16,735.0
+People fully vaccinated: None
+People vaccinated: 16,735.0
+Total cases per million: 2,318.072
+Total deaths per million: 69.517
+
+New cases: 0.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 0.0
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Georgia
+
+Population: 3,989,175.0
+Median Age: 38.7
+Age 65 and older: 14.86 %
+Age 70 and older: 10.24 %
+Life Expectancy: 73.77
+
+Total cases: 290,129.0
+Total deaths: 3,894.0
+Total vaccinations: 22,090.0
+People fully vaccinated: None
+People vaccinated: 22,090.0
+Total cases per million: 72,729.073
+Total deaths per million: 976.142
+
+New cases: 1,374.0
+New deaths: 11.0
+New vaccinations: 1,468.0
+New cases per million: 344.432
+New new_deaths_per_million: 2.757
+
+Reference date: 2021-04-13
+Location: Germany
+
+Population: 83,783,945.0
+Median Age: 46.6
+Age 65 and older: 21.45 %
+Age 70 and older: 15.96 %
+Life Expectancy: 81.33
+
+Total cases: 3,054,025.0
+Total deaths: 79,137.0
+Total vaccinations: 19,244,464.0
+People fully vaccinated: 5,186,135.0
+People vaccinated: 14,058,329.0
+Total cases per million: 36,451.196
+Total deaths per million: 944.537
+
+New cases: 29,421.0
+New deaths: 341.0
+New vaccinations: 530,537.0
+New cases per million: 351.153
+New new_deaths_per_million: 4.07
+
+Reference date: 2021-04-13
+Location: Ghana
+
+Population: 31,072,945.0
+Median Age: 21.1
+Age 65 and older: 3.38 %
+Age 70 and older: 1.95 %
+Life Expectancy: 64.07
+
+Total cases: 91,410.0
+Total deaths: 761.0
+Total vaccinations: 742,349.0
+People fully vaccinated: None
+People vaccinated: 742,349.0
+Total cases per million: 2,941.787
+Total deaths per million: 24.491
+
+New cases: 150.0
+New deaths: 7.0
+New vaccinations: 38,597.0
+New cases per million: 4.827
+New new_deaths_per_million: 0.225
+
+Reference date: 2021-04-13
+Location: Gibraltar
+
+Population: 33,691.0
+Median Age: None
+Age 65 and older: None
+Age 70 and older: None
+Life Expectancy: 79.93
+
+Total cases: None
+Total deaths: None
+Total vaccinations: 64,931.0
+People fully vaccinated: 29,847.0
+People vaccinated: 35,084.0
+Total cases per million: None
+Total deaths per million: None
+
+New cases: None
+New deaths: None
+New vaccinations: 648.0
+New cases per million: None
+New new_deaths_per_million: None
+
+Reference date: 2021-04-13
+Location: Greece
+
+Population: 10,423,056.0
+Median Age: 45.3
+Age 65 and older: 20.40 %
+Age 70 and older: 14.52 %
+Life Expectancy: 82.24
+
+Total cases: 301,103.0
+Total deaths: 9,054.0
+Total vaccinations: 2,280,934.0
+People fully vaccinated: 756,032.0
+People vaccinated: 1,524,902.0
+Total cases per million: 28,888.169
+Total deaths per million: 868.651
+
+New cases: 4,017.0
+New deaths: 93.0
+New vaccinations: 55,056.0
+New cases per million: 385.396
+New new_deaths_per_million: 8.923
+
+Reference date: 2021-04-13
+Location: Greenland
+
+Population: 56,772.0
+Median Age: None
+Age 65 and older: None
+Age 70 and older: None
+Life Expectancy: 71.7
+
+Total cases: None
+Total deaths: None
+Total vaccinations: 9,996.0
+People fully vaccinated: 4,296.0
+People vaccinated: 5,700.0
+Total cases per million: None
+Total deaths per million: None
+
+New cases: None
+New deaths: None
+New vaccinations: 188.0
+New cases per million: None
+New new_deaths_per_million: None
+
+Reference date: 2021-04-13
+Location: Grenada
+
+Population: 112,519.0
+Median Age: 29.4
+Age 65 and older: 7.30 %
+Age 70 and older: 5.02 %
+Life Expectancy: 72.4
+
+Total cases: 155.0
+Total deaths: 1.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 1,377.545
+Total deaths per million: 8.887
+
+New cases: 0.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 0.0
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Guatemala
+
+Population: 17,915,567.0
+Median Age: 22.9
+Age 65 and older: 4.69 %
+Age 70 and older: 3.02 %
+Life Expectancy: 74.3
+
+Total cases: 205,322.0
+Total deaths: 7,057.0
+Total vaccinations: 143,488.0
+People fully vaccinated: 1,722.0
+People vaccinated: 141,766.0
+Total cases per million: 11,460.536
+Total deaths per million: 393.903
+
+New cases: 2,013.0
+New deaths: 37.0
+New vaccinations: 3,998.0
+New cases per million: 112.36
+New new_deaths_per_million: 2.065
+
+Reference date: 2021-04-07
+Location: Guernsey
+
+Population: 67,052.0
+Median Age: None
+Age 65 and older: None
+Age 70 and older: None
+Life Expectancy: None
+
+Total cases: None
+Total deaths: None
+Total vaccinations: 37,829.0
+People fully vaccinated: 8,254.0
+People vaccinated: 29,575.0
+Total cases per million: None
+Total deaths per million: None
+
+New cases: None
+New deaths: None
+New vaccinations: None
+New cases per million: None
+New new_deaths_per_million: None
+
+Reference date: 2021-04-13
+Location: Guinea
+
+Population: 13,132,792.0
+Median Age: 19.0
+Age 65 and older: 3.13 %
+Age 70 and older: 1.73 %
+Life Expectancy: 61.6
+
+Total cases: 21,106.0
+Total deaths: 136.0
+Total vaccinations: 79,450.0
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 1,607.122
+Total deaths per million: 10.356
+
+New cases: 74.0
+New deaths: 0.0
+New vaccinations: 718.0
+New cases per million: 5.635
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Guinea-Bissau
+
+Population: 1,967,998.0
+Median Age: 19.4
+Age 65 and older: 3.00 %
+Age 70 and older: 1.56 %
+Life Expectancy: 58.32
+
+Total cases: 3,693.0
+Total deaths: 66.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 1,876.526
+Total deaths per million: 33.537
+
+New cases: 13.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 6.606
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Guyana
+
+Population: 786,559.0
+Median Age: 26.3
+Age 65 and older: 5.30 %
+Age 70 and older: 2.84 %
+Life Expectancy: 69.91
+
+Total cases: 11,277.0
+Total deaths: 258.0
+Total vaccinations: 60,172.0
+People fully vaccinated: None
+People vaccinated: 60,172.0
+Total cases per million: 14,337.132
+Total deaths per million: 328.011
+
+New cases: 88.0
+New deaths: 1.0
+New vaccinations: None
+New cases per million: 111.88
+New new_deaths_per_million: 1.271
+
+Reference date: 2021-04-13
+Location: Haiti
+
+Population: 11,402,533.0
+Median Age: 24.3
+Age 65 and older: 4.80 %
+Age 70 and older: 2.95 %
+Life Expectancy: 64.0
+
+Total cases: 12,855.0
+Total deaths: 251.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 1,127.381
+Total deaths per million: 22.013
+
+New cases: 15.0
+New deaths: -1.0
+New vaccinations: None
+New cases per million: 1.315
+New new_deaths_per_million: -0.088
+
+Reference date: 2021-04-13
+Location: Honduras
+
+Population: 9,904,608.0
+Median Age: 24.9
+Age 65 and older: 4.65 %
+Age 70 and older: 2.88 %
+Life Expectancy: 75.27
+
+Total cases: 196,704.0
+Total deaths: 4,873.0
+Total vaccinations: 57,639.0
+People fully vaccinated: 2,639.0
+People vaccinated: 55,000.0
+Total cases per million: 19,859.847
+Total deaths per million: 491.993
+
+New cases: 618.0
+New deaths: 12.0
+New vaccinations: None
+New cases per million: 62.395
+New new_deaths_per_million: 1.212
+
+Reference date: 2021-04-13
+Location: Hong Kong
+
+Population: 7,496,988.0
+Median Age: 44.8
+Age 65 and older: 16.30 %
+Age 70 and older: 10.16 %
+Life Expectancy: 84.86
+
+Total cases: None
+Total deaths: None
+Total vaccinations: 918,667.0
+People fully vaccinated: 303,373.0
+People vaccinated: 615,294.0
+Total cases per million: None
+Total deaths per million: None
+
+New cases: None
+New deaths: None
+New vaccinations: 40,466.0
+New cases per million: None
+New new_deaths_per_million: None
+
+Reference date: 2021-04-13
+Location: Hungary
+
+Population: 9,660,350.0
+Median Age: 43.4
+Age 65 and older: 18.58 %
+Age 70 and older: 11.98 %
+Life Expectancy: 76.88
+
+Total cases: 728,078.0
+Total deaths: 23,980.0
+Total vaccinations: 4,327,732.0
+People fully vaccinated: 1,290,709.0
+People vaccinated: 3,037,023.0
+Total cases per million: 75,367.663
+Total deaths per million: 2,482.312
+
+New cases: 2,837.0
+New deaths: 272.0
+New vaccinations: 107,503.0
+New cases per million: 293.675
+New new_deaths_per_million: 28.156
+
+Reference date: 2021-04-13
+Location: Iceland
+
+Population: 341,250.0
+Median Age: 37.3
+Age 65 and older: 14.43 %
+Age 70 and older: 9.21 %
+Life Expectancy: 82.99
+
+Total cases: 6,274.0
+Total deaths: 29.0
+Total vaccinations: 89,190.0
+People fully vaccinated: 28,056.0
+People vaccinated: 61,134.0
+Total cases per million: 18,385.348
+Total deaths per million: 84.982
+
+New cases: 7.0
+New deaths: 0.0
+New vaccinations: 6,642.0
+New cases per million: 20.513
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: India
+
+Population: 1,380,004,385.0
+Median Age: 28.2
+Age 65 and older: 5.99 %
+Age 70 and older: 3.41 %
+Life Expectancy: 69.66
+
+Total cases: 13,873,825.0
+Total deaths: 172,085.0
+Total vaccinations: 111,179,578.0
+People fully vaccinated: 13,877,664.0
+People vaccinated: 97,301,914.0
+Total cases per million: 10,053.464
+Total deaths per million: 124.699
+
+New cases: 184,372.0
+New deaths: 1,027.0
+New vaccinations: 2,646,493.0
+New cases per million: 133.602
+New new_deaths_per_million: 0.744
+
+Reference date: 2021-04-13
+Location: Indonesia
+
+Population: 273,523,621.0
+Median Age: 29.3
+Age 65 and older: 5.32 %
+Age 70 and older: 3.05 %
+Life Expectancy: 71.72
+
+Total cases: 1,577,526.0
+Total deaths: 42,782.0
+Total vaccinations: 15,602,574.0
+People fully vaccinated: 5,322,501.0
+People vaccinated: 10,280,073.0
+Total cases per million: 5,767.421
+Total deaths per million: 156.411
+
+New cases: 5,702.0
+New deaths: 126.0
+New vaccinations: 66,463.0
+New cases per million: 20.846
+New new_deaths_per_million: 0.461
+
+Reference date: 2021-04-13
+Location: International
+
+Population: None
+Median Age: None
+Age 65 and older: None
+Age 70 and older: None
+Life Expectancy: None
+
+Total cases: 721.0
+Total deaths: 15.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: None
+Total deaths per million: None
+
+New cases: 0.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: None
+New new_deaths_per_million: None
+
+Reference date: 2021-04-13
+Location: Iran
+
+Population: 83,992,953.0
+Median Age: 32.4
+Age 65 and older: 5.44 %
+Age 70 and older: 3.18 %
+Life Expectancy: 76.68
+
+Total cases: 2,118,212.0
+Total deaths: 65,055.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 25,218.925
+Total deaths per million: 774.529
+
+New cases: 24,760.0
+New deaths: 291.0
+New vaccinations: None
+New cases per million: 294.787
+New new_deaths_per_million: 3.465
+
+Reference date: 2021-04-13
+Location: Iraq
+
+Population: 40,222,503.0
+Median Age: 20.0
+Age 65 and older: 3.19 %
+Age 70 and older: 1.96 %
+Life Expectancy: 70.6
+
+Total cases: 941,078.0
+Total deaths: 14,796.0
+Total vaccinations: 152,962.0
+People fully vaccinated: None
+People vaccinated: 152,962.0
+Total cases per million: 23,396.804
+Total deaths per million: 367.854
+
+New cases: 8,179.0
+New deaths: 39.0
+New vaccinations: 9,985.0
+New cases per million: 203.344
+New new_deaths_per_million: 0.97
+
+Reference date: 2021-04-13
+Location: Ireland
+
+Population: 4,937,796.0
+Median Age: 38.7
+Age 65 and older: 13.93 %
+Age 70 and older: 8.68 %
+Life Expectancy: 82.3
+
+Total cases: 241,684.0
+Total deaths: 4,803.0
+Total vaccinations: 1,076,216.0
+People fully vaccinated: 317,453.0
+People vaccinated: 758,763.0
+Total cases per million: 48,945.724
+Total deaths per million: 972.701
+
+New cases: 354.0
+New deaths: 18.0
+New vaccinations: 12,550.0
+New cases per million: 71.692
+New new_deaths_per_million: 3.645
+
+Reference date: 2021-04-13
+Location: Isle of Man
+
+Population: 85,032.0
+Median Age: None
+Age 65 and older: None
+Age 70 and older: None
+Life Expectancy: 81.4
+
+Total cases: None
+Total deaths: None
+Total vaccinations: 62,899.0
+People fully vaccinated: 15,461.0
+People vaccinated: 47,438.0
+Total cases per million: None
+Total deaths per million: None
+
+New cases: None
+New deaths: None
+New vaccinations: 1,200.0
+New cases per million: None
+New new_deaths_per_million: None
+
+Reference date: 2021-04-13
+Location: Israel
+
+Population: 8,655,541.0
+Median Age: 30.6
+Age 65 and older: 11.73 %
+Age 70 and older: 7.36 %
+Life Expectancy: 82.97
+
+Total cases: 836,334.0
+Total deaths: 6,309.0
+Total vaccinations: 10,290,033.0
+People fully vaccinated: 4,955,083.0
+People vaccinated: 5,334,950.0
+Total cases per million: 96,624.116
+Total deaths per million: 728.897
+
+New cases: 176.0
+New deaths: 5.0
+New vaccinations: 9,894.0
+New cases per million: 20.334
+New new_deaths_per_million: 0.578
+
+Reference date: 2021-04-13
+Location: Italy
+
+Population: 60,461,828.0
+Median Age: 47.9
+Age 65 and older: 23.02 %
+Age 70 and older: 16.24 %
+Life Expectancy: 83.51
+
+Total cases: 3,793,033.0
+Total deaths: 115,088.0
+Total vaccinations: 13,585,908.0
+People fully vaccinated: 4,055,458.0
+People vaccinated: 9,530,450.0
+Total cases per million: 62,734.342
+Total deaths per million: 1,903.482
+
+New cases: 13,439.0
+New deaths: 476.0
+New vaccinations: 251,393.0
+New cases per million: 222.272
+New new_deaths_per_million: 7.873
+
+Reference date: 2021-04-13
+Location: Jamaica
+
+Population: 2,961,161.0
+Median Age: 31.4
+Age 65 and older: 9.68 %
+Age 70 and older: 6.39 %
+Life Expectancy: 74.47
+
+Total cases: 42,924.0
+Total deaths: 682.0
+Total vaccinations: 47,728.0
+People fully vaccinated: None
+People vaccinated: 47,728.0
+Total cases per million: 14,495.666
+Total deaths per million: 230.315
+
+New cases: 161.0
+New deaths: 6.0
+New vaccinations: 3,784.0
+New cases per million: 54.371
+New new_deaths_per_million: 2.026
+
+Reference date: 2021-04-13
+Location: Japan
+
+Population: 126,476,458.0
+Median Age: 48.2
+Age 65 and older: 27.05 %
+Age 70 and older: 18.49 %
+Life Expectancy: 84.63
+
+Total cases: 511,799.0
+Total deaths: 9,422.0
+Total vaccinations: 1,746,181.0
+People fully vaccinated: 600,995.0
+People vaccinated: 1,145,186.0
+Total cases per million: 4,046.595
+Total deaths per million: 74.496
+
+New cases: 3,449.0
+New deaths: 29.0
+New vaccinations: 55,589.0
+New cases per million: 27.27
+New new_deaths_per_million: 0.229
+
+Reference date: 2021-04-07
+Location: Jersey
+
+Population: 101,073.0
+Median Age: None
+Age 65 and older: None
+Age 70 and older: None
+Life Expectancy: None
+
+Total cases: None
+Total deaths: None
+Total vaccinations: 68,095.0
+People fully vaccinated: 23,049.0
+People vaccinated: 45,046.0
+Total cases per million: None
+Total deaths per million: None
+
+New cases: None
+New deaths: None
+New vaccinations: None
+New cases per million: None
+New new_deaths_per_million: None
+
+Reference date: 2021-04-13
+Location: Jordan
+
+Population: 10,203,140.0
+Median Age: 23.2
+Age 65 and older: 3.81 %
+Age 70 and older: 2.36 %
+Life Expectancy: 74.53
+
+Total cases: 672,090.0
+Total deaths: 7,937.0
+Total vaccinations: 524,533.0
+People fully vaccinated: 119,621.0
+People vaccinated: 404,912.0
+Total cases per million: 65,870.899
+Total deaths per million: 777.898
+
+New cases: 2,790.0
+New deaths: 82.0
+New vaccinations: None
+New cases per million: 273.445
+New new_deaths_per_million: 8.037
+
+Reference date: 2021-04-13
+Location: Kazakhstan
+
+Population: 18,776,707.0
+Median Age: 30.6
+Age 65 and older: 6.99 %
+Age 70 and older: 4.62 %
+Life Expectancy: 73.6
+
+Total cases: 327,593.0
+Total deaths: 3,276.0
+Total vaccinations: 443,974.0
+People fully vaccinated: 105,392.0
+People vaccinated: 338,582.0
+Total cases per million: 17,446.776
+Total deaths per million: 174.471
+
+New cases: 2,359.0
+New deaths: 5.0
+New vaccinations: None
+New cases per million: 125.634
+New new_deaths_per_million: 0.266
+
+Reference date: 2021-04-13
+Location: Kenya
+
+Population: 53,771,300.0
+Median Age: 20.0
+Age 65 and older: 2.69 %
+Age 70 and older: 1.53 %
+Life Expectancy: 66.7
+
+Total cases: 147,147.0
+Total deaths: 2,394.0
+Total vaccinations: 422,021.0
+People fully vaccinated: None
+People vaccinated: 422,021.0
+Total cases per million: 2,736.534
+Total deaths per million: 44.522
+
+New cases: 991.0
+New deaths: 26.0
+New vaccinations: 81,900.0
+New cases per million: 18.43
+New new_deaths_per_million: 0.484
+
+Reference date: 2021-04-13
+Location: Kosovo
+
+Population: 1,932,774.0
+Median Age: None
+Age 65 and older: None
+Age 70 and older: None
+Life Expectancy: None
+
+Total cases: 98,015.0
+Total deaths: 2,004.0
+Total vaccinations: 2,500.0
+People fully vaccinated: None
+People vaccinated: 2,500.0
+Total cases per million: 50,712.085
+Total deaths per million: 1,036.852
+
+New cases: 2,129.0
+New deaths: 36.0
+New vaccinations: 1,800.0
+New cases per million: 1,101.526
+New new_deaths_per_million: 18.626
+
+Reference date: 2021-04-13
+Location: Kuwait
+
+Population: 4,270,563.0
+Median Age: 33.7
+Age 65 and older: 2.35 %
+Age 70 and older: 1.11 %
+Life Expectancy: 75.49
+
+Total cases: 250,273.0
+Total deaths: 1,419.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 58,604.217
+Total deaths per million: 332.275
+
+New cases: 1,544.0
+New deaths: 7.0
+New vaccinations: None
+New cases per million: 361.545
+New new_deaths_per_million: 1.639
+
+Reference date: 2021-04-13
+Location: Kyrgyzstan
+
+Population: 6,524,191.0
+Median Age: 26.3
+Age 65 and older: 4.49 %
+Age 70 and older: 2.88 %
+Life Expectancy: 71.45
+
+Total cases: 90,599.0
+Total deaths: 1,532.0
+Total vaccinations: 2,100.0
+People fully vaccinated: None
+People vaccinated: 2,100.0
+Total cases per million: 13,886.626
+Total deaths per million: 234.818
+
+New cases: 227.0
+New deaths: 4.0
+New vaccinations: None
+New cases per million: 34.794
+New new_deaths_per_million: 0.613
+
+Reference date: 2021-04-13
+Location: Laos
+
+Population: 7,275,556.0
+Median Age: 24.4
+Age 65 and older: 4.03 %
+Age 70 and older: 2.32 %
+Life Expectancy: 67.92
+
+Total cases: 52.0
+Total deaths: None
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 7.147
+Total deaths per million: None
+
+New cases: 0.0
+New deaths: None
+New vaccinations: None
+New cases per million: 0.0
+New new_deaths_per_million: None
+
+Reference date: 2021-04-13
+Location: Latvia
+
+Population: 1,886,202.0
+Median Age: 43.9
+Age 65 and older: 19.75 %
+Age 70 and older: 14.14 %
+Life Expectancy: 75.29
+
+Total cases: 108,355.0
+Total deaths: 2,002.0
+Total vaccinations: 183,599.0
+People fully vaccinated: 26,525.0
+People vaccinated: 157,074.0
+Total cases per million: 57,446.127
+Total deaths per million: 1,061.392
+
+New cases: 537.0
+New deaths: 12.0
+New vaccinations: 3,013.0
+New cases per million: 284.699
+New new_deaths_per_million: 6.362
+
+Reference date: 2021-04-13
+Location: Lebanon
+
+Population: 6,825,442.0
+Median Age: 31.1
+Age 65 and older: 8.51 %
+Age 70 and older: 5.43 %
+Life Expectancy: 78.93
+
+Total cases: 499,839.0
+Total deaths: 6,738.0
+Total vaccinations: 296,165.0
+People fully vaccinated: 112,056.0
+People vaccinated: 184,109.0
+Total cases per million: 73,231.741
+Total deaths per million: 987.189
+
+New cases: 1,985.0
+New deaths: 35.0
+New vaccinations: 10,199.0
+New cases per million: 290.824
+New new_deaths_per_million: 5.128
+
+Reference date: 2021-04-13
+Location: Lesotho
+
+Population: 2,142,252.0
+Median Age: 22.2
+Age 65 and older: 4.51 %
+Age 70 and older: 2.65 %
+Life Expectancy: 54.33
+
+Total cases: 10,709.0
+Total deaths: 315.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 4,998.945
+Total deaths per million: 147.042
+
+New cases: 0.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 0.0
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Liberia
+
+Population: 5,057,677.0
+Median Age: 19.2
+Age 65 and older: 3.06 %
+Age 70 and older: 1.76 %
+Life Expectancy: 64.1
+
+Total cases: 2,042.0
+Total deaths: 85.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 403.743
+Total deaths per million: 16.806
+
+New cases: 0.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 0.0
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Libya
+
+Population: 6,871,287.0
+Median Age: 29.0
+Age 65 and older: 4.42 %
+Age 70 and older: 2.82 %
+Life Expectancy: 72.91
+
+Total cases: 169,504.0
+Total deaths: 2,830.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 24,668.45
+Total deaths per million: 411.859
+
+New cases: 828.0
+New deaths: 2.0
+New vaccinations: None
+New cases per million: 120.501
+New new_deaths_per_million: 0.291
+
+Reference date: 2021-04-13
+Location: Liechtenstein
+
+Population: 38,137.0
+Median Age: None
+Age 65 and older: None
+Age 70 and older: None
+Life Expectancy: 82.49
+
+Total cases: 2,768.0
+Total deaths: 56.0
+Total vaccinations: 7,414.0
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 72,580.434
+Total deaths per million: 1,468.39
+
+New cases: 14.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 367.098
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Lithuania
+
+Population: 2,722,291.0
+Median Age: 43.5
+Age 65 and older: 19.00 %
+Age 70 and older: 13.78 %
+Life Expectancy: 75.93
+
+Total cases: 227,889.0
+Total deaths: 3,713.0
+Total vaccinations: 701,986.0
+People fully vaccinated: 193,007.0
+People vaccinated: 508,979.0
+Total cases per million: 83,712.212
+Total deaths per million: 1,363.925
+
+New cases: 1,106.0
+New deaths: 16.0
+New vaccinations: 18,151.0
+New cases per million: 406.275
+New new_deaths_per_million: 5.877
+
+Reference date: 2021-04-13
+Location: Luxembourg
+
+Population: 625,976.0
+Median Age: 39.7
+Age 65 and older: 14.31 %
+Age 70 and older: 9.84 %
+Life Expectancy: 82.25
+
+Total cases: 64,062.0
+Total deaths: 777.0
+Total vaccinations: 135,091.0
+People fully vaccinated: 35,103.0
+People vaccinated: 99,988.0
+Total cases per million: 102,339.387
+Total deaths per million: 1,241.262
+
+New cases: 182.0
+New deaths: 5.0
+New vaccinations: 4,812.0
+New cases per million: 290.746
+New new_deaths_per_million: 7.988
+
+Reference date: 2021-04-11
+Location: Macao
+
+Population: 649,342.0
+Median Age: 39.2
+Age 65 and older: 9.80 %
+Age 70 and older: 4.99 %
+Life Expectancy: 84.24
+
+Total cases: None
+Total deaths: None
+Total vaccinations: 67,431.0
+People fully vaccinated: 22,593.0
+People vaccinated: 44,838.0
+Total cases per million: None
+Total deaths per million: None
+
+New cases: None
+New deaths: None
+New vaccinations: 1,917.0
+New cases per million: None
+New new_deaths_per_million: None
+
+Reference date: 2021-04-13
+Location: Madagascar
+
+Population: 27,691,019.0
+Median Age: 19.6
+Age 65 and older: 2.93 %
+Age 70 and older: 1.69 %
+Life Expectancy: 67.04
+
+Total cases: 28,765.0
+Total deaths: 512.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 1,038.784
+Total deaths per million: 18.49
+
+New cases: 224.0
+New deaths: 6.0
+New vaccinations: None
+New cases per million: 8.089
+New new_deaths_per_million: 0.217
+
+Reference date: 2021-04-13
+Location: Malawi
+
+Population: 19,129,955.0
+Median Age: 18.1
+Age 65 and older: 2.98 %
+Age 70 and older: 1.78 %
+Life Expectancy: 64.26
+
+Total cases: 33,872.0
+Total deaths: 1,133.0
+Total vaccinations: 229,220.0
+People fully vaccinated: None
+People vaccinated: 229,220.0
+Total cases per million: 1,770.626
+Total deaths per million: 59.226
+
+New cases: 13.0
+New deaths: 1.0
+New vaccinations: 16,605.0
+New cases per million: 0.68
+New new_deaths_per_million: 0.052
+
+Reference date: 2021-04-13
+Location: Malaysia
+
+Population: 32,365,998.0
+Median Age: 29.9
+Age 65 and older: 6.29 %
+Age 70 and older: 3.41 %
+Life Expectancy: 76.16
+
+Total cases: 363,940.0
+Total deaths: 1,345.0
+Total vaccinations: 1,050,138.0
+People fully vaccinated: 417,470.0
+People vaccinated: 632,668.0
+Total cases per million: 11,244.517
+Total deaths per million: 41.556
+
+New cases: 1,767.0
+New deaths: 12.0
+New vaccinations: 31,201.0
+New cases per million: 54.594
+New new_deaths_per_million: 0.371
+
+Reference date: 2021-04-13
+Location: Maldives
+
+Population: 540,542.0
+Median Age: 30.6
+Age 65 and older: 4.12 %
+Age 70 and older: 2.88 %
+Life Expectancy: 78.92
+
+Total cases: 25,759.0
+Total deaths: 67.0
+Total vaccinations: 283,753.0
+People fully vaccinated: 15,294.0
+People vaccinated: 268,459.0
+Total cases per million: 47,654.021
+Total deaths per million: 123.95
+
+New cases: 58.0
+New deaths: 0.0
+New vaccinations: 827.0
+New cases per million: 107.3
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Mali
+
+Population: 20,250,834.0
+Median Age: 16.4
+Age 65 and older: 2.52 %
+Age 70 and older: 1.49 %
+Life Expectancy: 59.31
+
+Total cases: 12,179.0
+Total deaths: 417.0
+Total vaccinations: 643.0
+People fully vaccinated: None
+People vaccinated: 643.0
+Total cases per million: 601.407
+Total deaths per million: 20.592
+
+New cases: 177.0
+New deaths: 3.0
+New vaccinations: None
+New cases per million: 8.74
+New new_deaths_per_million: 0.148
+
+Reference date: 2021-04-13
+Location: Malta
+
+Population: 441,539.0
+Median Age: 42.4
+Age 65 and older: 19.43 %
+Age 70 and older: 11.32 %
+Life Expectancy: 82.53
+
+Total cases: 29,720.0
+Total deaths: 403.0
+Total vaccinations: 249,400.0
+People fully vaccinated: 74,053.0
+People vaccinated: 175,347.0
+Total cases per million: 67,310.022
+Total deaths per million: 912.717
+
+New cases: 59.0
+New deaths: 1.0
+New vaccinations: 4,682.0
+New cases per million: 133.624
+New new_deaths_per_million: 2.265
+
+Reference date: 2021-04-13
+Location: Marshall Islands
+
+Population: 59,194.0
+Median Age: None
+Age 65 and older: None
+Age 70 and older: None
+Life Expectancy: 73.7
+
+Total cases: 4.0
+Total deaths: None
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 67.574
+Total deaths per million: None
+
+New cases: 0.0
+New deaths: None
+New vaccinations: None
+New cases per million: 0.0
+New new_deaths_per_million: None
+
+Reference date: 2021-04-13
+Location: Mauritania
+
+Population: 4,649,660.0
+Median Age: 20.3
+Age 65 and older: 3.14 %
+Age 70 and older: 1.79 %
+Life Expectancy: 64.92
+
+Total cases: 18,052.0
+Total deaths: 451.0
+Total vaccinations: 2,930.0
+People fully vaccinated: None
+People vaccinated: 2,930.0
+Total cases per million: 3,882.434
+Total deaths per million: 96.996
+
+New cases: 17.0
+New deaths: 1.0
+New vaccinations: None
+New cases per million: 3.656
+New new_deaths_per_million: 0.215
+
+Reference date: 2021-04-13
+Location: Mauritius
+
+Population: 1,271,767.0
+Median Age: 37.4
+Age 65 and older: 10.95 %
+Age 70 and older: 5.88 %
+Life Expectancy: 74.99
+
+Total cases: 1,198.0
+Total deaths: 15.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 941.996
+Total deaths per million: 11.795
+
+New cases: 5.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 3.932
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Mexico
+
+Population: 128,932,753.0
+Median Age: 29.3
+Age 65 and older: 6.86 %
+Age 70 and older: 4.32 %
+Life Expectancy: 75.05
+
+Total cases: 2,286,352.0
+Total deaths: 210,282.0
+Total vaccinations: 12,252,769.0
+People fully vaccinated: 2,550,719.0
+People vaccinated: 9,702,050.0
+Total cases per million: 17,732.903
+Total deaths per million: 1,630.943
+
+New cases: 4,512.0
+New deaths: 580.0
+New vaccinations: 549,605.0
+New cases per million: 34.995
+New new_deaths_per_million: 4.498
+
+Reference date: 2021-04-13
+Location: Micronesia (country)
+
+Population: 115,021.0
+Median Age: 23.0
+Age 65 and older: 4.81 %
+Age 70 and older: 2.39 %
+Life Expectancy: 67.88
+
+Total cases: 1.0
+Total deaths: None
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 8.694
+Total deaths per million: None
+
+New cases: 0.0
+New deaths: None
+New vaccinations: None
+New cases per million: 0.0
+New new_deaths_per_million: None
+
+Reference date: 2021-04-13
+Location: Moldova
+
+Population: 4,033,963.0
+Median Age: 37.6
+Age 65 and older: 10.86 %
+Age 70 and older: 6.96 %
+Life Expectancy: 71.9
+
+Total cases: 242,364.0
+Total deaths: 5,438.0
+Total vaccinations: 71,780.0
+People fully vaccinated: None
+People vaccinated: 71,780.0
+Total cases per million: 60,080.868
+Total deaths per million: 1,348.054
+
+New cases: 544.0
+New deaths: 29.0
+New vaccinations: 4,695.0
+New cases per million: 134.855
+New new_deaths_per_million: 7.189
+
+Reference date: 2021-04-13
+Location: Monaco
+
+Population: 39,244.0
+Median Age: None
+Age 65 and older: None
+Age 70 and older: None
+Life Expectancy: 86.75
+
+Total cases: 2,378.0
+Total deaths: 31.0
+Total vaccinations: 20,510.0
+People fully vaccinated: 8,795.0
+People vaccinated: 11,715.0
+Total cases per million: 60,595.25
+Total deaths per million: 789.93
+
+New cases: 1.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 25.482
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Mongolia
+
+Population: 3,278,292.0
+Median Age: 28.6
+Age 65 and older: 4.03 %
+Age 70 and older: 2.42 %
+Life Expectancy: 69.87
+
+Total cases: 17,823.0
+Total deaths: 29.0
+Total vaccinations: 627,168.0
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 5,436.673
+Total deaths per million: 8.846
+
+New cases: 1,220.0
+New deaths: 2.0
+New vaccinations: 29,307.0
+New cases per million: 372.145
+New new_deaths_per_million: 0.61
+
+Reference date: 2021-04-13
+Location: Montenegro
+
+Population: 628,062.0
+Median Age: 39.1
+Age 65 and older: 14.76 %
+Age 70 and older: 9.39 %
+Life Expectancy: 76.88
+
+Total cases: 94,643.0
+Total deaths: 1,391.0
+Total vaccinations: 44,979.0
+People fully vaccinated: 8,547.0
+People vaccinated: 36,432.0
+Total cases per million: 150,690.537
+Total deaths per million: 2,214.749
+
+New cases: 224.0
+New deaths: 10.0
+New vaccinations: 2,113.0
+New cases per million: 356.653
+New new_deaths_per_million: 15.922
+
+Reference date: 2021-04-13
+Location: Morocco
+
+Population: 36,910,558.0
+Median Age: 29.6
+Age 65 and older: 6.77 %
+Age 70 and older: 4.21 %
+Life Expectancy: 76.68
+
+Total cases: 502,961.0
+Total deaths: 8,915.0
+Total vaccinations: 8,650,872.0
+People fully vaccinated: 4,155,395.0
+People vaccinated: 4,495,477.0
+Total cases per million: 13,626.481
+Total deaths per million: 241.53
+
+New cases: 684.0
+New deaths: 6.0
+New vaccinations: 28,667.0
+New cases per million: 18.531
+New new_deaths_per_million: 0.163
+
+Reference date: 2021-04-13
+Location: Mozambique
+
+Population: 31,255,435.0
+Median Age: 17.7
+Age 65 and older: 3.16 %
+Age 70 and older: 1.87 %
+Life Expectancy: 60.85
+
+Total cases: 68,871.0
+Total deaths: 794.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 2,203.489
+Total deaths per million: 25.404
+
+New cases: 79.0
+New deaths: 3.0
+New vaccinations: None
+New cases per million: 2.528
+New new_deaths_per_million: 0.096
+
+Reference date: 2021-04-13
+Location: Myanmar
+
+Population: 54,409,794.0
+Median Age: 29.1
+Age 65 and older: 5.73 %
+Age 70 and older: 3.12 %
+Life Expectancy: 67.13
+
+Total cases: 142,596.0
+Total deaths: 3,206.0
+Total vaccinations: 1,040,000.0
+People fully vaccinated: 40,000.0
+People vaccinated: 1,000,000.0
+Total cases per million: 2,620.778
+Total deaths per million: 58.923
+
+New cases: 0.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 0.0
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Namibia
+
+Population: 2,540,916.0
+Median Age: 22.0
+Age 65 and older: 3.55 %
+Age 70 and older: 2.08 %
+Life Expectancy: 63.71
+
+Total cases: 45,949.0
+Total deaths: 586.0
+Total vaccinations: 2,526.0
+People fully vaccinated: None
+People vaccinated: 2,526.0
+Total cases per million: 18,083.636
+Total deaths per million: 230.625
+
+New cases: 162.0
+New deaths: 11.0
+New vaccinations: 350.0
+New cases per million: 63.757
+New new_deaths_per_million: 4.329
+
+Reference date: 2021-04-13
+Location: Nepal
+
+Population: 29,136,808.0
+Median Age: 25.0
+Age 65 and older: 5.81 %
+Age 70 and older: 3.21 %
+Life Expectancy: 70.78
+
+Total cases: 280,984.0
+Total deaths: 3,058.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 9,643.61
+Total deaths per million: 104.953
+
+New cases: 460.0
+New deaths: 5.0
+New vaccinations: None
+New cases per million: 15.788
+New new_deaths_per_million: 0.172
+
+Reference date: 2021-04-13
+Location: Netherlands
+
+Population: 17,134,873.0
+Median Age: 43.2
+Age 65 and older: 18.78 %
+Age 70 and older: 11.88 %
+Life Expectancy: 82.28
+
+Total cases: 1,387,961.0
+Total deaths: 17,018.0
+Total vaccinations: 3,783,912.0
+People fully vaccinated: 826,135.0
+People vaccinated: 2,957,777.0
+Total cases per million: 81,002.118
+Total deaths per million: 993.179
+
+New cases: 6,779.0
+New deaths: 37.0
+New vaccinations: None
+New cases per million: 395.626
+New new_deaths_per_million: 2.159
+
+Reference date: 2021-04-13
+Location: New Zealand
+
+Population: 4,822,233.0
+Median Age: 37.9
+Age 65 and older: 15.32 %
+Age 70 and older: 9.72 %
+Life Expectancy: 82.29
+
+Total cases: 2,589.0
+Total deaths: 26.0
+Total vaccinations: 90,286.0
+People fully vaccinated: 19,273.0
+People vaccinated: 71,013.0
+Total cases per million: 536.888
+Total deaths per million: 5.392
+
+New cases: 2.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 0.415
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Nicaragua
+
+Population: 6,624,554.0
+Median Age: 27.3
+Age 65 and older: 5.45 %
+Age 70 and older: 3.52 %
+Life Expectancy: 74.48
+
+Total cases: 6,778.0
+Total deaths: 180.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 1,023.163
+Total deaths per million: 27.172
+
+New cases: 51.0
+New deaths: 1.0
+New vaccinations: None
+New cases per million: 7.699
+New new_deaths_per_million: 0.151
+
+Reference date: 2021-04-13
+Location: Niger
+
+Population: 24,206,636.0
+Median Age: 15.1
+Age 65 and older: 2.55 %
+Age 70 and older: 1.38 %
+Life Expectancy: 62.42
+
+Total cases: 5,081.0
+Total deaths: 189.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 209.901
+Total deaths per million: 7.808
+
+New cases: 0.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 0.0
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Nigeria
+
+Population: 206,139,587.0
+Median Age: 18.1
+Age 65 and older: 2.75 %
+Age 70 and older: 1.45 %
+Life Expectancy: 54.69
+
+Total cases: 163,911.0
+Total deaths: 2,061.0
+Total vaccinations: 964,387.0
+People fully vaccinated: None
+People vaccinated: 964,387.0
+Total cases per million: 795.146
+Total deaths per million: 9.998
+
+New cases: 74.0
+New deaths: 0.0
+New vaccinations: 100,453.0
+New cases per million: 0.359
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: North America
+
+Population: 592,072,204.0
+Median Age: None
+Age 65 and older: None
+Age 70 and older: None
+Life Expectancy: None
+
+Total cases: 36,223,182.0
+Total deaths: 826,092.0
+Total vaccinations: 216,250,182.0
+People fully vaccinated: 79,259,640.0
+People vaccinated: 142,199,647.0
+Total cases per million: 61,180.345
+Total deaths per million: 1,395.256
+
+New cases: 97,918.0
+New deaths: 1,542.0
+New vaccinations: 3,476,230.0
+New cases per million: 165.382
+New new_deaths_per_million: 2.604
+
+Reference date: 2021-04-13
+Location: North Macedonia
+
+Population: 2,083,380.0
+Median Age: 39.1
+Age 65 and older: 13.26 %
+Age 70 and older: 8.16 %
+Life Expectancy: 75.8
+
+Total cases: 143,162.0
+Total deaths: 4,289.0
+Total vaccinations: 29,263.0
+People fully vaccinated: None
+People vaccinated: 29,263.0
+Total cases per million: 68,716.221
+Total deaths per million: 2,058.674
+
+New cases: 1,128.0
+New deaths: 27.0
+New vaccinations: 3,249.0
+New cases per million: 541.428
+New new_deaths_per_million: 12.96
+
+Reference date: 2021-04-13
+Location: Norway
+
+Population: 5,421,242.0
+Median Age: 39.7
+Age 65 and older: 16.82 %
+Age 70 and older: 10.81 %
+Life Expectancy: 82.4
+
+Total cases: 105,008.0
+Total deaths: 688.0
+Total vaccinations: 1,170,443.0
+People fully vaccinated: 296,529.0
+People vaccinated: 873,914.0
+Total cases per million: 19,369.731
+Total deaths per million: 126.908
+
+New cases: 739.0
+New deaths: 1.0
+New vaccinations: 3,461.0
+New cases per million: 136.316
+New new_deaths_per_million: 0.184
+
+Reference date: 2021-04-13
+Location: Oceania
+
+Population: 42,677,809.0
+Median Age: None
+Age 65 and older: None
+Age 70 and older: None
+Life Expectancy: None
+
+Total cases: 40,958.0
+Total deaths: 1,007.0
+Total vaccinations: 1,327,217.0
+People fully vaccinated: 19,273.0
+People vaccinated: 232,557.0
+Total cases per million: 959.703
+Total deaths per million: 23.595
+
+New cases: 242.0
+New deaths: 0.0
+New vaccinations: 56,379.0
+New cases per million: 5.67
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Oman
+
+Population: 5,106,622.0
+Median Age: 30.7
+Age 65 and older: 2.35 %
+Age 70 and older: 1.53 %
+Life Expectancy: 77.86
+
+Total cases: 174,364.0
+Total deaths: 1,798.0
+Total vaccinations: 188,029.0
+People fully vaccinated: 19,019.0
+People vaccinated: 169,010.0
+Total cases per million: 34,144.685
+Total deaths per million: 352.092
+
+New cases: 1,335.0
+New deaths: 9.0
+New vaccinations: None
+New cases per million: 261.425
+New new_deaths_per_million: 1.762
+
+Reference date: 2021-04-13
+Location: Pakistan
+
+Population: 220,892,331.0
+Median Age: 23.5
+Age 65 and older: 4.50 %
+Age 70 and older: 2.78 %
+Life Expectancy: 67.27
+
+Total cases: 734,423.0
+Total deaths: 15,754.0
+Total vaccinations: 800,000.0
+People fully vaccinated: None
+People vaccinated: 1,114,000.0
+Total cases per million: 3,324.801
+Total deaths per million: 71.32
+
+New cases: 4,503.0
+New deaths: 135.0
+New vaccinations: None
+New cases per million: 20.385
+New new_deaths_per_million: 0.611
+
+Reference date: 2021-04-13
+Location: Palestine
+
+Population: 5,101,416.0
+Median Age: 20.4
+Age 65 and older: 3.04 %
+Age 70 and older: 1.73 %
+Life Expectancy: 74.05
+
+Total cases: 272,767.0
+Total deaths: 2,901.0
+Total vaccinations: 143,142.0
+People fully vaccinated: 11,748.0
+People vaccinated: 131,394.0
+Total cases per million: 53,468.88
+Total deaths per million: 568.666
+
+New cases: 1,911.0
+New deaths: 18.0
+New vaccinations: 10,750.0
+New cases per million: 374.602
+New new_deaths_per_million: 3.528
+
+Reference date: 2021-04-13
+Location: Panama
+
+Population: 4,314,768.0
+Median Age: 29.7
+Age 65 and older: 7.92 %
+Age 70 and older: 5.03 %
+Life Expectancy: 78.51
+
+Total cases: 359,121.0
+Total deaths: 6,173.0
+Total vaccinations: 518,629.0
+People fully vaccinated: 167,863.0
+People vaccinated: 350,766.0
+Total cases per million: 83,230.663
+Total deaths per million: 1,430.668
+
+New cases: 329.0
+New deaths: 6.0
+New vaccinations: 13,624.0
+New cases per million: 76.25
+New new_deaths_per_million: 1.391
+
+Reference date: 2021-04-13
+Location: Papua New Guinea
+
+Population: 8,947,027.0
+Median Age: 22.6
+Age 65 and older: 3.81 %
+Age 70 and older: 2.14 %
+Life Expectancy: 64.5
+
+Total cases: 8,821.0
+Total deaths: 69.0
+Total vaccinations: 250.0
+People fully vaccinated: None
+People vaccinated: 250.0
+Total cases per million: 985.914
+Total deaths per million: 7.712
+
+New cases: 219.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 24.477
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Paraguay
+
+Population: 7,132,530.0
+Median Age: 26.5
+Age 65 and older: 6.38 %
+Age 70 and older: 3.83 %
+Life Expectancy: 74.25
+
+Total cases: 240,141.0
+Total deaths: 4,978.0
+Total vaccinations: 48,684.0
+People fully vaccinated: 2,684.0
+People vaccinated: 46,000.0
+Total cases per million: 33,668.418
+Total deaths per million: 697.929
+
+New cases: 2,599.0
+New deaths: 89.0
+New vaccinations: 1,120.0
+New cases per million: 364.387
+New new_deaths_per_million: 12.478
+
+Reference date: 2021-04-13
+Location: Peru
+
+Population: 32,971,846.0
+Median Age: 29.1
+Age 65 and older: 7.15 %
+Age 70 and older: 4.46 %
+Life Expectancy: 76.74
+
+Total cases: 1,659,707.0
+Total deaths: 55,489.0
+Total vaccinations: 1,075,767.0
+People fully vaccinated: 418,872.0
+People vaccinated: 656,895.0
+Total cases per million: 50,337.097
+Total deaths per million: 1,682.921
+
+New cases: 6,387.0
+New deaths: 259.0
+New vaccinations: 11,923.0
+New cases per million: 193.711
+New new_deaths_per_million: 7.855
+
+Reference date: 2021-04-13
+Location: Philippines
+
+Population: 109,581,085.0
+Median Age: 25.2
+Age 65 and older: 4.80 %
+Age 70 and older: 2.66 %
+Life Expectancy: 71.23
+
+Total cases: 884,783.0
+Total deaths: 15,286.0
+Total vaccinations: 1,255,716.0
+People fully vaccinated: 162,065.0
+People vaccinated: 1,093,651.0
+Total cases per million: 8,074.231
+Total deaths per million: 139.495
+
+New cases: 8,558.0
+New deaths: 137.0
+New vaccinations: 53,419.0
+New cases per million: 78.097
+New new_deaths_per_million: 1.25
+
+Reference date: 2021-04-13
+Location: Poland
+
+Population: 37,846,605.0
+Median Age: 41.8
+Age 65 and older: 16.76 %
+Age 70 and older: 10.20 %
+Life Expectancy: 78.73
+
+Total cases: 2,599,850.0
+Total deaths: 59,126.0
+Total vaccinations: 7,970,164.0
+People fully vaccinated: 2,137,304.0
+People vaccinated: 5,832,860.0
+Total cases per million: 68,694.405
+Total deaths per million: 1,562.254
+
+New cases: 13,203.0
+New deaths: 645.0
+New vaccinations: 185,780.0
+New cases per million: 348.856
+New new_deaths_per_million: 17.042
+
+Reference date: 2021-04-13
+Location: Portugal
+
+Population: 10,196,707.0
+Median Age: 46.2
+Age 65 and older: 21.50 %
+Age 70 and older: 14.92 %
+Life Expectancy: 82.05
+
+Total cases: 828,173.0
+Total deaths: 16,923.0
+Total vaccinations: 2,235,317.0
+People fully vaccinated: 630,922.0
+People vaccinated: 1,604,393.0
+Total cases per million: 81,219.653
+Total deaths per million: 1,659.653
+
+New cases: 408.0
+New deaths: 5.0
+New vaccinations: 31,984.0
+New cases per million: 40.013
+New new_deaths_per_million: 0.49
+
+Reference date: 2021-04-13
+Location: Qatar
+
+Population: 2,881,060.0
+Median Age: 31.9
+Age 65 and older: 1.31 %
+Age 70 and older: 0.62 %
+Life Expectancy: 80.23
+
+Total cases: 191,979.0
+Total deaths: 340.0
+Total vaccinations: 1,131,631.0
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 66,634.85
+Total deaths per million: 118.012
+
+New cases: 981.0
+New deaths: 5.0
+New vaccinations: 26,905.0
+New cases per million: 340.5
+New new_deaths_per_million: 1.735
+
+Reference date: 2021-04-13
+Location: Romania
+
+Population: 19,237,682.0
+Median Age: 43.0
+Age 65 and older: 17.85 %
+Age 70 and older: 11.69 %
+Life Expectancy: 76.05
+
+Total cases: 1,012,373.0
+Total deaths: 25,441.0
+Total vaccinations: 3,838,804.0
+People fully vaccinated: 1,466,149.0
+People vaccinated: 2,372,655.0
+Total cases per million: 52,624.479
+Total deaths per million: 1,322.457
+
+New cases: 3,883.0
+New deaths: 193.0
+New vaccinations: 76,590.0
+New cases per million: 201.843
+New new_deaths_per_million: 10.032
+
+Reference date: 2021-04-13
+Location: Russia
+
+Population: 145,934,460.0
+Median Age: 39.6
+Age 65 and older: 14.18 %
+Age 70 and older: 9.39 %
+Life Expectancy: 72.58
+
+Total cases: 4,605,444.0
+Total deaths: 101,882.0
+Total vaccinations: 14,583,881.0
+People fully vaccinated: 5,546,176.0
+People vaccinated: 9,037,705.0
+Total cases per million: 31,558.304
+Total deaths per million: 698.135
+
+New cases: 8,044.0
+New deaths: 330.0
+New vaccinations: 314,338.0
+New cases per million: 55.121
+New new_deaths_per_million: 2.261
+
+Reference date: 2021-04-13
+Location: Rwanda
+
+Population: 12,952,209.0
+Median Age: 20.3
+Age 65 and older: 2.97 %
+Age 70 and older: 1.64 %
+Life Expectancy: 69.02
+
+Total cases: 23,603.0
+Total deaths: 316.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 1,822.315
+Total deaths per million: 24.397
+
+New cases: 68.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 5.25
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Saint Kitts and Nevis
+
+Population: 53,192.0
+Median Age: None
+Age 65 and older: None
+Age 70 and older: None
+Life Expectancy: 76.23
+
+Total cases: 44.0
+Total deaths: None
+Total vaccinations: 10,456.0
+People fully vaccinated: None
+People vaccinated: 10,456.0
+Total cases per million: 827.192
+Total deaths per million: None
+
+New cases: 0.0
+New deaths: None
+New vaccinations: None
+New cases per million: 0.0
+New new_deaths_per_million: None
+
+Reference date: 2021-04-13
+Location: Saint Lucia
+
+Population: 183,629.0
+Median Age: 34.9
+Age 65 and older: 9.72 %
+Age 70 and older: 6.41 %
+Life Expectancy: 76.2
+
+Total cases: 4,355.0
+Total deaths: 64.0
+Total vaccinations: 23,257.0
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 23,716.298
+Total deaths per million: 348.529
+
+New cases: 0.0
+New deaths: 0.0
+New vaccinations: 107.0
+New cases per million: 0.0
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Saint Vincent and the Grenadines
+
+Population: 110,947.0
+Median Age: 31.8
+Age 65 and older: 7.72 %
+Age 70 and older: 4.83 %
+Life Expectancy: 72.53
+
+Total cases: 1,806.0
+Total deaths: 10.0
+Total vaccinations: 12,124.0
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 16,278.043
+Total deaths per million: 90.133
+
+New cases: 0.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 0.0
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Samoa
+
+Population: 198,410.0
+Median Age: 22.0
+Age 65 and older: 5.61 %
+Age 70 and older: 3.56 %
+Life Expectancy: 73.32
+
+Total cases: 3.0
+Total deaths: None
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 15.12
+Total deaths per million: None
+
+New cases: 0.0
+New deaths: None
+New vaccinations: None
+New cases per million: 0.0
+New new_deaths_per_million: None
+
+Reference date: 2021-04-13
+Location: San Marino
+
+Population: 33,938.0
+Median Age: None
+Age 65 and older: None
+Age 70 and older: None
+Life Expectancy: 84.97
+
+Total cases: 4,985.0
+Total deaths: 86.0
+Total vaccinations: 17,707.0
+People fully vaccinated: 8,108.0
+People vaccinated: 9,599.0
+Total cases per million: 146,885.497
+Total deaths per million: 2,534.033
+
+New cases: 23.0
+New deaths: 0.0
+New vaccinations: 482.0
+New cases per million: 677.706
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Sao Tome and Principe
+
+Population: 219,161.0
+Median Age: 18.7
+Age 65 and older: 2.89 %
+Age 70 and older: 2.16 %
+Life Expectancy: 70.39
+
+Total cases: 2,268.0
+Total deaths: 35.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 10,348.557
+Total deaths per million: 159.7
+
+New cases: 1.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 4.563
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Saudi Arabia
+
+Population: 34,813,867.0
+Median Age: 31.9
+Age 65 and older: 3.29 %
+Age 70 and older: 1.84 %
+Life Expectancy: 75.13
+
+Total cases: 400,228.0
+Total deaths: 6,773.0
+Total vaccinations: 6,499,853.0
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 11,496.224
+Total deaths per million: 194.549
+
+New cases: 951.0
+New deaths: 8.0
+New vaccinations: 98,397.0
+New cases per million: 27.317
+New new_deaths_per_million: 0.23
+
+Reference date: 2021-04-13
+Location: Senegal
+
+Population: 16,743,930.0
+Median Age: 18.7
+Age 65 and older: 3.01 %
+Age 70 and older: 1.80 %
+Life Expectancy: 67.94
+
+Total cases: 39,495.0
+Total deaths: 1,081.0
+Total vaccinations: 351,372.0
+People fully vaccinated: None
+People vaccinated: 351,372.0
+Total cases per million: 2,358.765
+Total deaths per million: 64.561
+
+New cases: 30.0
+New deaths: 2.0
+New vaccinations: 2,264.0
+New cases per million: 1.792
+New new_deaths_per_million: 0.119
+
+Reference date: 2021-04-13
+Location: Serbia
+
+Population: 6,804,596.0
+Median Age: 41.2
+Age 65 and older: 17.37 %
+Age 70 and older: None
+Life Expectancy: 76.0
+
+Total cases: 648,745.0
+Total deaths: 5,808.0
+Total vaccinations: 2,882,854.0
+People fully vaccinated: 1,166,011.0
+People vaccinated: 1,716,843.0
+Total cases per million: 95,339.238
+Total deaths per million: 853.541
+
+New cases: 3,572.0
+New deaths: 35.0
+New vaccinations: 46,842.0
+New cases per million: 524.939
+New new_deaths_per_million: 5.144
+
+Reference date: 2021-04-13
+Location: Seychelles
+
+Population: 98,340.0
+Median Age: 36.2
+Age 65 and older: 8.61 %
+Age 70 and older: 5.59 %
+Life Expectancy: 73.4
+
+Total cases: 4,633.0
+Total deaths: 25.0
+Total vaccinations: 108,749.0
+People fully vaccinated: 43,259.0
+People vaccinated: 65,490.0
+Total cases per million: 47,112.06
+Total deaths per million: 254.22
+
+New cases: 189.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 1,921.904
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Sierra Leone
+
+Population: 7,976,985.0
+Median Age: 19.1
+Age 65 and older: 2.54 %
+Age 70 and older: 1.28 %
+Life Expectancy: 54.7
+
+Total cases: 4,009.0
+Total deaths: 79.0
+Total vaccinations: 37,680.0
+People fully vaccinated: 122.0
+People vaccinated: 37,558.0
+Total cases per million: 502.571
+Total deaths per million: 9.903
+
+New cases: 1.0
+New deaths: 0.0
+New vaccinations: 6,053.0
+New cases per million: 0.125
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Singapore
+
+Population: 5,850,343.0
+Median Age: 42.4
+Age 65 and older: 12.92 %
+Age 70 and older: 7.05 %
+Life Expectancy: 83.62
+
+Total cases: 60,692.0
+Total deaths: 30.0
+Total vaccinations: 1,667,522.0
+People fully vaccinated: 535,864.0
+People vaccinated: 1,131,658.0
+Total cases per million: 10,374.093
+Total deaths per million: 5.128
+
+New cases: 14.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 2.393
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Slovakia
+
+Population: 5,459,643.0
+Median Age: 41.2
+Age 65 and older: 15.07 %
+Age 70 and older: 9.17 %
+Life Expectancy: 77.54
+
+Total cases: 372,038.0
+Total deaths: 10,716.0
+Total vaccinations: 1,199,816.0
+People fully vaccinated: 308,412.0
+People vaccinated: 891,404.0
+Total cases per million: 68,143.283
+Total deaths per million: 1,962.766
+
+New cases: 870.0
+New deaths: 86.0
+New vaccinations: 18,763.0
+New cases per million: 159.351
+New new_deaths_per_million: 15.752
+
+Reference date: 2021-04-13
+Location: Slovenia
+
+Population: 2,078,932.0
+Median Age: 44.5
+Age 65 and older: 19.06 %
+Age 70 and older: 12.93 %
+Life Expectancy: 81.32
+
+Total cases: 227,836.0
+Total deaths: 4,130.0
+Total vaccinations: 466,300.0
+People fully vaccinated: 122,985.0
+People vaccinated: 343,315.0
+Total cases per million: 109,592.81
+Total deaths per million: 1,986.597
+
+New cases: 1,050.0
+New deaths: 4.0
+New vaccinations: 3,718.0
+New cases per million: 505.067
+New new_deaths_per_million: 1.924
+
+Reference date: 2021-04-13
+Location: Solomon Islands
+
+Population: 686,878.0
+Median Age: 20.8
+Age 65 and older: 3.51 %
+Age 70 and older: 2.04 %
+Life Expectancy: 73.0
+
+Total cases: 19.0
+Total deaths: None
+Total vaccinations: 2,000.0
+People fully vaccinated: None
+People vaccinated: 2,000.0
+Total cases per million: 27.661
+Total deaths per million: None
+
+New cases: 0.0
+New deaths: None
+New vaccinations: None
+New cases per million: 0.0
+New new_deaths_per_million: None
+
+Reference date: 2021-04-13
+Location: Somalia
+
+Population: 15,893,219.0
+Median Age: 16.8
+Age 65 and older: 2.73 %
+Age 70 and older: 1.50 %
+Life Expectancy: 57.4
+
+Total cases: 12,566.0
+Total deaths: 618.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 790.652
+Total deaths per million: 38.885
+
+New cases: 0.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 0.0
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: South Africa
+
+Population: 59,308,690.0
+Median Age: 27.3
+Age 65 and older: 5.34 %
+Age 70 and older: 3.05 %
+Life Expectancy: 64.13
+
+Total cases: 1,559,960.0
+Total deaths: 53,423.0
+Total vaccinations: 292,623.0
+People fully vaccinated: 292,623.0
+People vaccinated: 292,623.0
+Total cases per million: 26,302.385
+Total deaths per million: 900.762
+
+New cases: 847.0
+New deaths: 67.0
+New vaccinations: 2,836.0
+New cases per million: 14.281
+New new_deaths_per_million: 1.13
+
+Reference date: 2021-04-13
+Location: South America
+
+Population: 430,759,772.0
+Median Age: None
+Age 65 and older: None
+Age 70 and older: None
+Life Expectancy: None
+
+Total cases: 22,715,680.0
+Total deaths: 601,765.0
+Total vaccinations: 55,335,975.0
+People fully vaccinated: 14,633,963.0
+People vaccinated: 40,702,012.0
+Total cases per million: 52,733.986
+Total deaths per million: 1,396.985
+
+New cases: 145,510.0
+New deaths: 4,899.0
+New vaccinations: 3,624,070.0
+New cases per million: 337.798
+New new_deaths_per_million: 11.373
+
+Reference date: 2021-04-13
+Location: South Korea
+
+Population: 51,269,183.0
+Median Age: 43.4
+Age 65 and older: 13.91 %
+Age 70 and older: 8.62 %
+Life Expectancy: 83.03
+
+Total cases: 111,419.0
+Total deaths: 1,782.0
+Total vaccinations: 1,299,632.0
+People fully vaccinated: 60,567.0
+People vaccinated: 1,239,065.0
+Total cases per million: 2,173.216
+Total deaths per million: 34.758
+
+New cases: 731.0
+New deaths: 7.0
+New vaccinations: 43,733.0
+New cases per million: 14.258
+New new_deaths_per_million: 0.137
+
+Reference date: 2021-04-13
+Location: South Sudan
+
+Population: 11,193,729.0
+Median Age: 19.2
+Age 65 and older: 3.44 %
+Age 70 and older: 2.03 %
+Life Expectancy: 57.85
+
+Total cases: 10,387.0
+Total deaths: 114.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 927.93
+Total deaths per million: 10.184
+
+New cases: 6.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 0.536
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Spain
+
+Population: 46,754,783.0
+Median Age: 45.5
+Age 65 and older: 19.44 %
+Age 70 and older: 13.80 %
+Life Expectancy: 83.56
+
+Total cases: 3,376,548.0
+Total deaths: 76,625.0
+Total vaccinations: 11,073,657.0
+People fully vaccinated: 3,136,091.0
+People vaccinated: 7,937,566.0
+Total cases per million: 72,218.237
+Total deaths per million: 1,638.87
+
+New cases: 6,292.0
+New deaths: 100.0
+New vaccinations: 288,660.0
+New cases per million: 134.574
+New new_deaths_per_million: 2.139
+
+Reference date: 2021-04-13
+Location: Sri Lanka
+
+Population: 21,413,250.0
+Median Age: 34.1
+Age 65 and older: 10.07 %
+Age 70 and older: 5.33 %
+Life Expectancy: 76.98
+
+Total cases: 95,620.0
+Total deaths: 602.0
+Total vaccinations: 925,242.0
+People fully vaccinated: None
+People vaccinated: 925,242.0
+Total cases per million: 4,465.459
+Total deaths per million: 28.113
+
+New cases: 226.0
+New deaths: 4.0
+New vaccinations: 151.0
+New cases per million: 10.554
+New new_deaths_per_million: 0.187
+
+Reference date: 2021-04-13
+Location: Sudan
+
+Population: 43,849,269.0
+Median Age: 19.7
+Age 65 and older: 3.55 %
+Age 70 and older: 2.03 %
+Life Expectancy: 65.31
+
+Total cases: 31,833.0
+Total deaths: 2,194.0
+Total vaccinations: 63,837.0
+People fully vaccinated: None
+People vaccinated: 63,837.0
+Total cases per million: 725.964
+Total deaths per million: 50.035
+
+New cases: 0.0
+New deaths: 131.0
+New vaccinations: 20,715.0
+New cases per million: 0.0
+New new_deaths_per_million: 2.988
+
+Reference date: 2021-04-13
+Location: Suriname
+
+Population: 586,634.0
+Median Age: 29.6
+Age 65 and older: 6.93 %
+Age 70 and older: 4.23 %
+Life Expectancy: 71.68
+
+Total cases: 9,363.0
+Total deaths: 184.0
+Total vaccinations: 33,640.0
+People fully vaccinated: None
+People vaccinated: 33,640.0
+Total cases per million: 15,960.548
+Total deaths per million: 313.654
+
+New cases: 47.0
+New deaths: 2.0
+New vaccinations: 602.0
+New cases per million: 80.118
+New new_deaths_per_million: 3.409
+
+Reference date: 2021-04-13
+Location: Sweden
+
+Population: 10,099,270.0
+Median Age: 41.0
+Age 65 and older: 19.98 %
+Age 70 and older: 13.43 %
+Life Expectancy: 82.8
+
+Total cases: 876,506.0
+Total deaths: 13,660.0
+Total vaccinations: 2,119,890.0
+People fully vaccinated: 624,864.0
+People vaccinated: 1,495,026.0
+Total cases per million: 86,789.045
+Total deaths per million: 1,352.573
+
+New cases: 19,105.0
+New deaths: 39.0
+New vaccinations: 68,106.0
+New cases per million: 1,891.721
+New new_deaths_per_million: 3.862
+
+Reference date: 2021-04-13
+Location: Switzerland
+
+Population: 8,654,618.0
+Median Age: 43.1
+Age 65 and older: 18.44 %
+Age 70 and older: 12.64 %
+Life Expectancy: 83.78
+
+Total cases: 625,367.0
+Total deaths: 10,472.0
+Total vaccinations: 1,807,703.0
+People fully vaccinated: 686,248.0
+People vaccinated: 1,121,455.0
+Total cases per million: 72,258.186
+Total deaths per million: 1,209.99
+
+New cases: 2,241.0
+New deaths: 6.0
+New vaccinations: 63,410.0
+New cases per million: 258.937
+New new_deaths_per_million: 0.693
+
+Reference date: 2021-04-13
+Location: Syria
+
+Population: 17,500,657.0
+Median Age: 21.7
+Age 65 and older: None
+Age 70 and older: 2.58 %
+Life Expectancy: 72.7
+
+Total cases: 20,435.0
+Total deaths: 1,392.0
+Total vaccinations: 2,500.0
+People fully vaccinated: None
+People vaccinated: 2,500.0
+Total cases per million: 1,167.67
+Total deaths per million: 79.54
+
+New cases: 104.0
+New deaths: 7.0
+New vaccinations: None
+New cases per million: 5.943
+New new_deaths_per_million: 0.4
+
+Reference date: 2021-04-13
+Location: Taiwan
+
+Population: 23,816,775.0
+Median Age: 42.2
+Age 65 and older: None
+Age 70 and older: 8.35 %
+Life Expectancy: 80.46
+
+Total cases: 1,062.0
+Total deaths: 11.0
+Total vaccinations: 25,882.0
+People fully vaccinated: None
+People vaccinated: 25,882.0
+Total cases per million: 44.59
+Total deaths per million: 0.462
+
+New cases: 4.0
+New deaths: 0.0
+New vaccinations: 1,181.0
+New cases per million: 0.168
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Tajikistan
+
+Population: 9,537,642.0
+Median Age: 23.3
+Age 65 and older: 3.47 %
+Age 70 and older: 2.15 %
+Life Expectancy: 71.1
+
+Total cases: 13,308.0
+Total deaths: 90.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 1,395.313
+Total deaths per million: 9.436
+
+New cases: 0.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 0.0
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Tanzania
+
+Population: 59,734,213.0
+Median Age: 17.7
+Age 65 and older: 3.11 %
+Age 70 and older: 1.87 %
+Life Expectancy: 65.46
+
+Total cases: 509.0
+Total deaths: 21.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 8.521
+Total deaths per million: 0.352
+
+New cases: 0.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 0.0
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Thailand
+
+Population: 69,799,978.0
+Median Age: 40.1
+Age 65 and older: 11.37 %
+Age 70 and older: 6.89 %
+Life Expectancy: 77.15
+
+Total cases: 34,575.0
+Total deaths: 97.0
+Total vaccinations: 579,305.0
+People fully vaccinated: 73,561.0
+People vaccinated: 505,744.0
+Total cases per million: 495.344
+Total deaths per million: 1.39
+
+New cases: 965.0
+New deaths: 0.0
+New vaccinations: 14,656.0
+New cases per million: 13.825
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Timor
+
+Population: 1,318,442.0
+Median Age: 18.0
+Age 65 and older: 3.56 %
+Age 70 and older: 1.90 %
+Life Expectancy: 69.5
+
+Total cases: 1,074.0
+Total deaths: 2.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 814.598
+Total deaths per million: 1.517
+
+New cases: 28.0
+New deaths: 1.0
+New vaccinations: None
+New cases per million: 21.237
+New new_deaths_per_million: 0.758
+
+Reference date: 2021-04-13
+Location: Togo
+
+Population: 8,278,737.0
+Median Age: 19.4
+Age 65 and older: 2.84 %
+Age 70 and older: 1.52 %
+Life Expectancy: 61.04
+
+Total cases: 12,034.0
+Total deaths: 116.0
+Total vaccinations: 82,753.0
+People fully vaccinated: None
+People vaccinated: 82,753.0
+Total cases per million: 1,453.603
+Total deaths per million: 14.012
+
+New cases: 0.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 0.0
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Trinidad and Tobago
+
+Population: 1,399,491.0
+Median Age: 36.2
+Age 65 and older: 10.01 %
+Age 70 and older: 5.82 %
+Life Expectancy: 73.51
+
+Total cases: 8,511.0
+Total deaths: 146.0
+Total vaccinations: 4,777.0
+People fully vaccinated: None
+People vaccinated: 4,777.0
+Total cases per million: 6,081.497
+Total deaths per million: 104.324
+
+New cases: 70.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 50.018
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Tunisia
+
+Population: 11,818,618.0
+Median Age: 32.7
+Age 65 and older: 8.00 %
+Age 70 and older: 5.08 %
+Life Expectancy: 76.7
+
+Total cases: 274,604.0
+Total deaths: 9,396.0
+Total vaccinations: 163,010.0
+People fully vaccinated: 8,363.0
+People vaccinated: 154,647.0
+Total cases per million: 23,234.866
+Total deaths per million: 795.017
+
+New cases: 1,664.0
+New deaths: 64.0
+New vaccinations: 12,047.0
+New cases per million: 140.795
+New new_deaths_per_million: 5.415
+
+Reference date: 2021-04-13
+Location: Turkey
+
+Population: 84,339,067.0
+Median Age: 31.6
+Age 65 and older: 8.15 %
+Age 70 and older: 5.06 %
+Life Expectancy: 77.69
+
+Total cases: 3,962,760.0
+Total deaths: 34,455.0
+Total vaccinations: 19,062,758.0
+People fully vaccinated: 7,674,352.0
+People vaccinated: 11,388,406.0
+Total cases per million: 46,986.055
+Total deaths per million: 408.53
+
+New cases: 59,187.0
+New deaths: 273.0
+New vaccinations: 333,780.0
+New cases per million: 701.774
+New new_deaths_per_million: 3.237
+
+Reference date: 2021-04-13
+Location: Uganda
+
+Population: 45,741,000.0
+Median Age: 16.4
+Age 65 and older: 2.17 %
+Age 70 and older: 1.31 %
+Life Expectancy: 63.37
+
+Total cases: 41,204.0
+Total deaths: 337.0
+Total vaccinations: 180,969.0
+People fully vaccinated: None
+People vaccinated: 180,969.0
+Total cases per million: 900.811
+Total deaths per million: 7.368
+
+New cases: 30.0
+New deaths: 0.0
+New vaccinations: 12,978.0
+New cases per million: 0.656
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Ukraine
+
+Population: 43,733,759.0
+Median Age: 41.4
+Age 65 and older: 16.46 %
+Age 70 and older: 11.13 %
+Life Expectancy: 72.06
+
+Total cases: 1,925,224.0
+Total deaths: 39,477.0
+Total vaccinations: 403,556.0
+People fully vaccinated: 5.0
+People vaccinated: 403,551.0
+Total cases per million: 44,021.462
+Total deaths per million: 902.667
+
+New cases: 11,809.0
+New deaths: 465.0
+New vaccinations: 15,152.0
+New cases per million: 270.02
+New new_deaths_per_million: 10.633
+
+Reference date: 2021-04-13
+Location: United Arab Emirates
+
+Population: 9,890,400.0
+Median Age: 34.0
+Age 65 and older: 1.14 %
+Age 70 and older: 0.53 %
+Life Expectancy: 77.97
+
+Total cases: 487,697.0
+Total deaths: 1,537.0
+Total vaccinations: 9,156,728.0
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 49,310.139
+Total deaths per million: 155.403
+
+New cases: 2,022.0
+New deaths: 4.0
+New vaccinations: 118,805.0
+New cases per million: 204.441
+New new_deaths_per_million: 0.404
+
+Reference date: 2021-04-13
+Location: United Kingdom
+
+Population: 67,886,004.0
+Median Age: 40.8
+Age 65 and older: 18.52 %
+Age 70 and older: 12.53 %
+Life Expectancy: 81.32
+
+Total cases: 4,390,801.0
+Total deaths: 127,369.0
+Total vaccinations: 40,107,877.0
+People fully vaccinated: 7,857,396.0
+People vaccinated: 32,250,481.0
+Total cases per million: 64,679.032
+Total deaths per million: 1,876.219
+
+New cases: 2,505.0
+New deaths: 23.0
+New vaccinations: 261,096.0
+New cases per million: 36.9
+New new_deaths_per_million: 0.339
+
+Reference date: 2021-04-13
+Location: United States
+
+Population: 331,002,647.0
+Median Age: 38.3
+Age 65 and older: 15.41 %
+Age 70 and older: 9.73 %
+Life Expectancy: 78.86
+
+Total cases: 31,345,985.0
+Total deaths: 563,446.0
+Total vaccinations: 192,282,781.0
+People fully vaccinated: 75,322,283.0
+People vaccinated: 122,295,530.0
+Total cases per million: 94,700.104
+Total deaths per million: 1,702.24
+
+New cases: 77,878.0
+New deaths: 823.0
+New vaccinations: 2,590,736.0
+New cases per million: 235.279
+New new_deaths_per_million: 2.486
+
+Reference date: 2021-04-13
+Location: Uruguay
+
+Population: 3,473,727.0
+Median Age: 35.6
+Age 65 and older: 14.65 %
+Age 70 and older: 10.36 %
+Life Expectancy: 77.91
+
+Total cases: 149,430.0
+Total deaths: 1,595.0
+Total vaccinations: 1,133,002.0
+People fully vaccinated: 214,074.0
+People vaccinated: 918,928.0
+Total cases per million: 43,017.197
+Total deaths per million: 459.161
+
+New cases: 2,257.0
+New deaths: 62.0
+New vaccinations: 54,382.0
+New cases per million: 649.734
+New new_deaths_per_million: 17.848
+
+Reference date: 2021-04-13
+Location: Uzbekistan
+
+Population: 33,469,199.0
+Median Age: 28.2
+Age 65 and older: 4.47 %
+Age 70 and older: 2.87 %
+Life Expectancy: 71.72
+
+Total cases: 85,291.0
+Total deaths: 634.0
+Total vaccinations: 148,642.0
+People fully vaccinated: None
+People vaccinated: 148,642.0
+Total cases per million: 2,548.343
+Total deaths per million: 18.943
+
+New cases: 177.0
+New deaths: 0.0
+New vaccinations: None
+New cases per million: 5.288
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: Vanuatu
+
+Population: 307,150.0
+Median Age: 23.1
+Age 65 and older: 4.39 %
+Age 70 and older: 2.62 %
+Life Expectancy: 70.47
+
+Total cases: 3.0
+Total deaths: None
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 9.767
+Total deaths per million: None
+
+New cases: 0.0
+New deaths: None
+New vaccinations: None
+New cases per million: 0.0
+New new_deaths_per_million: None
+
+Reference date: 2021-04-13
+Location: Vatican
+
+Population: 809.0
+Median Age: None
+Age 65 and older: None
+Age 70 and older: None
+Life Expectancy: 75.12
+
+Total cases: 27.0
+Total deaths: None
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 33,374.536
+Total deaths per million: None
+
+New cases: 0.0
+New deaths: None
+New vaccinations: None
+New cases per million: 0.0
+New new_deaths_per_million: None
+
+Reference date: 2021-04-13
+Location: Venezuela
+
+Population: 28,435,943.0
+Median Age: 29.0
+Age 65 and older: 6.61 %
+Age 70 and older: 3.92 %
+Life Expectancy: 72.06
+
+Total cases: 176,972.0
+Total deaths: 1,815.0
+Total vaccinations: 250,000.0
+People fully vaccinated: None
+People vaccinated: 250,000.0
+Total cases per million: 6,223.532
+Total deaths per million: 63.828
+
+New cases: 1,160.0
+New deaths: 20.0
+New vaccinations: None
+New cases per million: 40.793
+New new_deaths_per_million: 0.703
+
+Reference date: 2021-04-13
+Location: Vietnam
+
+Population: 97,338,583.0
+Median Age: 32.6
+Age 65 and older: 7.15 %
+Age 70 and older: 4.72 %
+Life Expectancy: 75.4
+
+Total cases: 2,714.0
+Total deaths: 35.0
+Total vaccinations: 58,037.0
+People fully vaccinated: None
+People vaccinated: 58,037.0
+Total cases per million: 27.882
+Total deaths per million: 0.36
+
+New cases: 9.0
+New deaths: 0.0
+New vaccinations: 1,678.0
+New cases per million: 0.092
+New new_deaths_per_million: 0.0
+
+Reference date: 2021-04-13
+Location: World
+
+Population: 7,794,798,729.0
+Median Age: 30.9
+Age 65 and older: 8.70 %
+Age 70 and older: 5.36 %
+Life Expectancy: 72.58
+
+Total cases: 137,442,820.0
+Total deaths: 2,959,084.0
+Total vaccinations: 825,087,517.0
+People fully vaccinated: 180,481,420.0
+People vaccinated: 459,789,617.0
+Total cases per million: 17,632.632
+Total deaths per million: 379.623
+
+New cases: 779,567.0
+New deaths: 13,332.0
+New vaccinations: 16,760,600.0
+New cases per million: 100.011
+New new_deaths_per_million: 1.71
+
+Reference date: 2021-04-13
+Location: Yemen
+
+Population: 29,825,968.0
+Median Age: 20.3
+Age 65 and older: 2.92 %
+Age 70 and older: 1.58 %
+Life Expectancy: 66.12
+
+Total cases: 5,507.0
+Total deaths: 1,073.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 184.638
+Total deaths per million: 35.975
+
+New cases: 61.0
+New deaths: 5.0
+New vaccinations: None
+New cases per million: 2.045
+New new_deaths_per_million: 0.168
+
+Reference date: 2021-04-13
+Location: Zambia
+
+Population: 18,383,956.0
+Median Age: 17.7
+Age 65 and older: 2.48 %
+Age 70 and older: 1.54 %
+Life Expectancy: 63.89
+
+Total cases: 90,218.0
+Total deaths: 1,229.0
+Total vaccinations: None
+People fully vaccinated: None
+People vaccinated: None
+Total cases per million: 4,907.431
+Total deaths per million: 66.852
+
+New cases: 154.0
+New deaths: 2.0
+New vaccinations: None
+New cases per million: 8.377
+New new_deaths_per_million: 0.109
+
+Reference date: 2021-04-13
+Location: Zimbabwe
+
+Population: 14,862,927.0
+Median Age: 19.6
+Age 65 and older: 2.82 %
+Age 70 and older: 1.88 %
+Life Expectancy: 61.49
+
+Total cases: 37,330.0
+Total deaths: 1,543.0
+Total vaccinations: 234,579.0
+People fully vaccinated: 29,304.0
+People vaccinated: 205,275.0
+Total cases per million: 2,511.618
+Total deaths per million: 103.815
+
+New cases: 23.0
+New deaths: 1.0
+New vaccinations: 11,087.0
+New cases per million: 1.547
+New new_deaths_per_million: 0.067
+
