@@ -11,8 +11,8 @@ import sys
 conStr = "mongodb://localhost:27017/"
 dbName = "DailyData"
 collName = "dataref"
-arquivo = "/Users/gazstao/github/covid-19-data/public/data/latest/owid-covid-latest.json"
-#arquivo = "owid-covid-latest.json.webarchive"
+arquivo = "/Users/gazstao/Google Drive/github/covid-19-data/public/data/latest/owid-covid-latest.json"
+#arquivo = "Data-2021-04-13.json"
 dataref = ""
 
 print("\n\n\n\nGazstao DataParserExperiment v0.07 2021-04-15 11h15")
@@ -170,6 +170,8 @@ while repete:
         print("Digite exit para sair")
     else:
         item = item.upper()
+        if (item == "ALL"):
+            item = "OWID_WRL"
         try:
             print(json.dumps(dadosJSON[item], indent = 4, sort_keys = True))
         except:
