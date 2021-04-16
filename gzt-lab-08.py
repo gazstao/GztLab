@@ -6,7 +6,7 @@ import pymongo
 import sys
 
 #conStr = "mongodb://localhost:27017/"
-conStr = "mongodb+srv://owner:zer0@cluster0.uvhcq.mongodb.net/gzt-lab"
+conStr = "mongodb+srv://owner:{}@cluster0.uvhcq.mongodb.net/gzt-lab"
 collName = "data"
 
 print("\n\n\n\nGazstao DataParserExperiment v0.08 2021-04-15 19h27")
