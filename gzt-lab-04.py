@@ -8,7 +8,7 @@ import pymongo
 #       Leitura do arquivo e criação de objeto JSON
 #
 
-arquivo = "/Users/gazstao/github/covid-19-data/public/data/latest/owid-covid-latest.json"
+arquivo = "/Users/gazstao/Google Drive/github/covid-19-data/public/data/latest/owid-covid-latest.json"
 print("\nGazstao DataParserExperiment 2021-04-12\nArquivo :"+arquivo)
 
 with open(arquivo) as file:
