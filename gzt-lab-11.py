@@ -97,8 +97,9 @@ while repeat:
 
     print("Construindo o gráfico...")
 
-    plt.plot(x,yc, color="black", linestyle="--", label = "Novos Casos")
-    plt.plot(x,yd, color="red", linestyle="--" , label = "Novas Mortes * {}".format(norm_factor) )
+    plt.plot(x,yc, color="blue", label = "Novos Casos")
+    plt.plot(x,yd, color="green" , label = "Novas Mortes * {}".format(norm_factor) )
+
 
     plt.legend()
     plt.title("Covid Evolution in {}".format(local))
