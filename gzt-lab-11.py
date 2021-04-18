@@ -7,8 +7,8 @@ import matplotlib.pyplot as plt
 
 conStr = "mongodb://localhost:27017/"
 # conStr = "mongodb+srv://owner:{}@cluster0.uvhcq.mongodb.net/gzt-lab"
-dbName = "Historical"
-collName = "data-history"
+dbName = "gzt-lab"
+collName = "data20210418"
 
 norm_factor = 40
 
@@ -17,7 +17,7 @@ yc = []
 yd = []
 
 print("\n-----------------------------------------------\n"+
-"Gazstao DataCrunch v1.0 2021-04-17 14h27\nRodando em: "+
+"Gazstao DataCrunch v1.0 2021-04-18 10h47\nRodando em: "+
 "{}\n-----------------------------------------------".format(datetime.datetime.now()))
 
 
