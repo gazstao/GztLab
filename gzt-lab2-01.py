@@ -5,9 +5,9 @@ import datetime
 import pprint
 import matplotlib.pyplot as plt
 
-conStr = "mongodb://localhost:27017/"
-# conStr = "mongodb+srv://owner:{}@cluster0.uvhcq.mongodb.net/gzt-lab"
-dbName = "gzt-lab"
+#conStr = "mongodb://localhost:27017/"
+conStr = "mongodb+srv://owner:{}@cluster0.uvhcq.mongodb.net/"
+dbName = "Data-Backup"
 collName = "data20210418"
 
 norm_factor = 40
@@ -15,11 +15,13 @@ norm_factor = 40
 x = []
 yc = []
 yd = []
+graphstyle = "solid"
 
 print("\n-----------------------------------------------\n"+
-"Gazstao DataCrunch v2.0 2021-04-18 11h11\nRodando em: "+
+"Gazstao DataCrunch v2.0 2021-04-18 16h01\nRodando em: "+
 "{}\n-----------------------------------------------".format(datetime.datetime.now()))
 
+senha = input("Qual a senha de conexão do Banco de Dados? ")
 
 #
 #       Testa conexão ao Mongo e lista Bancos de Dados e Collections
@@ -50,7 +52,7 @@ def testaMongo(myclient):
 def conectaMongoDB(connectionString):
 
     try:
-        myclient = pymongo.MongoClient(connectionString)
+        myclient = pymongo.MongoClient(connectionString.format(senha))
         print("Conectando :{}".format(connectionString))
         return myclient
 
@@ -63,10 +65,11 @@ def conectaMongoDB(connectionString):
 
 locaisDisponiveis = []
 def listaLocais(collection):
+    print("------------  Locais disponíveis --------------")
     for registro in collection.find({}).distinct("location"):
         print ("{} , ".format(registro), end=" ")
         locaisDisponiveis.append(registro)
-    print ("digite exit para sair.")
+    print ("digite exit para sair, clear para limpar o gráfico.")
 
 #
 #   EL PROGRAMO
@@ -92,8 +95,16 @@ while repeat:
          repeat = False
          sys.exit()
 
-    elif (local == "?" or local == ""):
+    elif (local == "?" or local==""):
         listaLocais(coll)
+
+    elif (local == "clear"):
+        plt.close()
+        plt.clf()
+        x.clear()
+        yc.clear()
+        yd.clear()
+        print("Cleared")
 
     elif (local in locaisDisponiveis):
 
@@ -111,21 +122,20 @@ while repeat:
                 #plt.bar(x,yc,color="grey")
                 #plt.bar(x,yd,color="red")
 
-        x.append(0)
-        yc.append(0)
-        yd.append(0)
+        print("Construindo o gráfico... Aguardando que a janela seja fechada.")
 
-        print("Construindo o gráfico...")
-
-        plt.plot(x,yc, color="blue", label = "Novos Casos")
-        plt.plot(x,yd, color="green" , label = "Novas Mortes * {}".format(norm_factor) )
+        plt.plot(x,yc, color="blue", label = "Novos Casos", linestyle = graphstyle, linewidth = 1.0)
+        plt.plot(x,yd, color="green" , label = "Novas Mortes * {}".format(norm_factor), linestyle = graphstyle, linewidth = 1.0 )
 
         plt.legend()
         plt.title("Covid Evolution in {}".format(local))
         plt.xlabel("Data")
         plt.ylabel("Novos Casos vs Novas Mortes * {}".format(norm_factor))
-        plt.savefig("Covid-Evolution-{}.png".format(local))
+        plt.savefig("Covid-Evolution-{}-{}.png".format(collName, local))
         plt.show()
+        x.append(0)
+        yc.append(0)
+        yd.append(0)
 
     else:
         print ("Local indisponível ou não foi possível obter os dados.")
