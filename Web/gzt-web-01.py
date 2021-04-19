@@ -1,14 +1,12 @@
-# Gzt-Lab2-02 ---  2021-04-18 21h45
-# - Pede a senha pra conectar no MongoDB na nuvem
+# Gzt-Web-01 2021-04-19 16h15
+# - Pede a senha pra conectar no MongoDB
 # - Procura pelo Banco de Dados
-# - Lista os locais com dados disponíveis
+# - Procura pelos locais com dados disponíveis
 # - Compila todos os dados do local
-# - Cria um gráfico com os dados obtidos
-# - Pede por um novo local para adicionar ao gráfico, ou
-# - Permite limpar o gráfico, listar os locais, ou sair do programa.
-
-# - Alterar o diretório dos gráficos
 # - Criar gráficos automáticos para todos os países
+
+# Desafios:
+# - Criar um arquivo Web com os links pros gráficos.
 
 import os
 import json
@@ -21,7 +19,13 @@ conStr = "mongodb://localhost:27017/"
 #conStr = "mongodb+srv://owner:{}@cluster0.uvhcq.mongodb.net/"
 dbName = "Data-Backup"
 collName = "data20210419"
-imageDirName = "Covid-19-Graphs"
+imageDirName = "Covid19-Graphs"
+fileName = "Covid19-Evolution-Graphic-"
+horaInicio = datetime.datetime.now()
+
+htmlStart = '<!DOCTYPE html><html lang="en" dir="ltr"><head><meta charset="utf-8"><link rel="stylesheet" href="css/style.css"><title>Covid-19 Evolution by Country</title></head><body><h1>Covid-19 Evolution by Country</h1><p>Atualizado em {}</p><br><ul>'.format(horaInicio)
+htmlEnd = '</ul><div class="bloco end">by Gazstao 2021<br></div></body></html>'
+htmlMiddle = ''
 
 norm_factor = 40
 
@@ -30,8 +34,6 @@ yc = []
 yd = []
 graphstyle = "solid"
 contagem = 1
-
-horaInicio = datetime.datetime.now()
 
 print("\n-----------------------------------------------\n"+
 "Gazstao DataCrunch v2.0 2021-04-18 21h45\nRodando em: "+
@@ -111,6 +113,8 @@ db = clienteMongoDB[dbName]
 coll = db[collName]
 listaLocais(coll)
 
+print("\nCriando arquivo html e gráficos...\n")
+print(htmlStart)
 for local in locaisDisponiveis:
 
     for registro in coll.find( { "location" : local , "newdeaths" : {"$ne" : "'"}}).sort("date", 1):
@@ -123,20 +127,23 @@ for local in locaisDisponiveis:
             yc.append(novos_casos)
             yd.append(novas_mortes*norm_factor)
 
-    print("{}   {} - Adicionando {} registros de {} - {} e construindo gráfico".format(datetime.datetime.now(), contagem, len(x),registro["location"], registro["date"]))
-    contagem += 1
+    print("\n{} - Adicionando {} registros de {} - {}, construindo gráfico e adicionando html.".format( contagem, len(x),registro["location"], registro["date"]))
 
-    plt.plot(x,yc, color="blue", label = "Novos Casos", linestyle = graphstyle, linewidth = 1.0)
-    plt.plot(x,yd, color="green" , label = "Novas Mortes * {}".format(norm_factor), linestyle = graphstyle, linewidth = 1.0 )
+    plt.plot(x,yc, color="blue", label = "Novos Casos", linestyle = graphstyle, linewidth = 0.5)
+    plt.plot(x,yd, color="green" , label = "Novas Mortes * {}".format(norm_factor), linestyle = graphstyle, linewidth = 0.5 )
 
     plt.legend()
     plt.title("Covid Evolution in {}".format(local))
     plt.xlabel("Data")
     plt.ylabel("Novos Casos vs Novas Mortes * {}".format(norm_factor))
     if (len(x) > 1):
-        plt.savefig("./{}/Covid-Evolution-{}-{}.png".format(imageDirName, collName, local))
+        novoHtml = '<li><a href="{}/{}-{}-{}.png">{}</a></li>'.format(imageDirName,fileName, collName, local, local)
+        htmlMiddle = htmlMiddle+novoHtml
+        print(novoHtml)
+        plt.savefig("./{}/{}-{}-{}.png".format(imageDirName, fileName, collName, local), dpi=200)
+        contagem += 1
     else:
-        print("Figura ./{}/Covid-Evolution-{}-{}.png não foi salva por falta de dados.".format(imageDirName, collName, local))
+        print("Figura .{}/{}-{}-{}.png não foi salva por falta de dados.".format(imageDirName, fileName, collName, local))
     x.append(0)
     yc.append(0)
     yd.append(0)
@@ -145,7 +152,14 @@ for local in locaisDisponiveis:
     x.clear()
     yc.clear()
     yd.clear()
-
+print(htmlEnd)
 horaFinal = datetime.datetime.now()
+
+htmlFile = open("./index.html", "w")
+htmlFile.write(htmlStart)
+htmlFile.write(htmlMiddle)
+htmlFile.write(htmlEnd)
+htmlFile.close()
+
 print("Hora inicio: \t{}".format(horaInicio))
 print("Hora final: \t{}".format(horaFinal))
