@@ -19,7 +19,8 @@ conStr = "mongodb://localhost:27017/"
 #conStr = "mongodb+srv://owner:{}@cluster0.uvhcq.mongodb.net/"
 dbName = "Data-Backup"
 collName = "data20210419"
-imageDirName = "/Covid-19-Graphs"
+imageDirName = "Covid19-Graphs"
+fileName = "Covid19-Evolution-Graphic"
 
 htmlStart = '<!DOCTYPE html><html lang="en" dir="ltr"><head><meta charset="utf-8"><link rel="stylesheet" href="css/style.css"><title>Covid-19 Evolution by Country</title></head><body><h1>Covid-19 Evolution by Country</h1>'
 htmlEnd = '<div class="bloco end">by Gazstao 2021<br></div></body></html>'
@@ -125,7 +126,7 @@ for local in locaisDisponiveis:
             yc.append(novos_casos)
             yd.append(novas_mortes*norm_factor)
 
-    print("{}   {} - Adicionando {} registros de {} - {} e construindo gráfico".format(datetime.datetime.now(), contagem, len(x),registro["location"], registro["date"]))
+    print("\n{} - Adicionando {} registros de {} - {} e construindo gráfico".format( contagem, len(x),registro["location"], registro["date"]))
 
 #    plt.plot(x,yc, color="blue", label = "Novos Casos", linestyle = graphstyle, linewidth = 1.0)
 #    plt.plot(x,yd, color="green" , label = "Novas Mortes * {}".format(norm_factor), linestyle = graphstyle, linewidth = 1.0 )
@@ -134,12 +135,15 @@ for local in locaisDisponiveis:
     plt.title("Covid Evolution in {}".format(local))
     plt.xlabel("Data")
     plt.ylabel("Novos Casos vs Novas Mortes * {}".format(norm_factor))
+    nomeArq = "{}-{}-{}.png".format(fileName, registro["date"], local)
     if (len(x) > 1):
-        htmlMiddle = htmlMiddle+'<img src=".{}/Covid-Evolution-{}-{}.png" align="center"><br>'.format(imageDirName,collName, local)
+        htmlNovo='<img src="{}/{}" align="center"><br>'.format(imageDirName,nomeArq)
+        htmlMiddle = htmlMiddle+htmlNovo
+        print(htmlNovo)
 #        plt.savefig("./{}/Covid-Evolution-{}-{}.png".format(imageDirName, collName, local))
         contagem += 1
     else:
-        print("Figura .{}/Covid-Evolution-{}-{}.png não foi salva por falta de dados.".format(imageDirName, collName, local))
+        print("Figura {}/{} não foi salva por falta de dados.".format(imageDirName, nomeArq))
     x.append(0)
     yc.append(0)
     yd.append(0)
@@ -151,7 +155,7 @@ for local in locaisDisponiveis:
 
 horaFinal = datetime.datetime.now()
 
-htmlFile = open("./index.html", "w")
+htmlFile = open("./index2.html", "w")
 htmlFile.write(htmlStart)
 htmlFile.write(htmlMiddle)
 htmlFile.write(htmlEnd)
