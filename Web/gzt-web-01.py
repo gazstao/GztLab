@@ -20,11 +20,11 @@ conStr = "mongodb://localhost:27017/"
 dbName = "Data-Backup"
 collName = "data20210419"
 imageDirName = "Covid19-Graphs"
-fileName = "Covid19-Evolution-Graphic-"
+fileName = "Covid19-Evolution-Graphic"
 horaInicio = datetime.datetime.now()
 
 htmlStart = '<!DOCTYPE html><html lang="en" dir="ltr"><head><meta charset="utf-8"><link rel="stylesheet" href="css/style.css"><title>Covid-19 Evolution by Country</title></head><body><h1>Covid-19 Evolution by Country</h1><p>Atualizado em {}</p><br><ul>'.format(horaInicio)
-htmlEnd = '</ul><div class="bloco end">by Gazstao 2021<br></div></body></html>'
+htmlEnd = '</ul><div class="bloco end">by Gazstao 2021<br>Dados retirados do projeto <a href="https://github.com/owid/covid-19-data/">Owid</a></div></body></html>'
 htmlMiddle = ''
 
 norm_factor = 40
@@ -137,13 +137,14 @@ for local in locaisDisponiveis:
     plt.xlabel("Data")
     plt.ylabel("Novos Casos vs Novas Mortes * {}".format(norm_factor))
     if (len(x) > 1):
-        novoHtml = '<li><a href="{}/{}-{}-{}.png">{}</a></li>'.format(imageDirName,fileName, collName, local, local)
+        nomeArq = "{}-{}-{}.png".format(fileName, registro["date"], local)
+        novoHtml = '<li><a href="{}/{}">{}</a></li>'.format(imageDirName, nomeArq, local)
         htmlMiddle = htmlMiddle+novoHtml
         print(novoHtml)
-        plt.savefig("./{}/{}-{}-{}.png".format(imageDirName, fileName, collName, local), dpi=200)
+        plt.savefig("./{}/{}".format(imageDirName, nomeArq), dpi=200)
         contagem += 1
     else:
-        print("Figura .{}/{}-{}-{}.png não foi salva por falta de dados.".format(imageDirName, fileName, collName, local))
+        print("Figura .{}/{} não foi salva por falta de dados.".format(imageDirName, nomeArq))
     x.append(0)
     yc.append(0)
     yd.append(0)
