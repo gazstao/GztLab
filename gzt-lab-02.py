@@ -1,4 +1,7 @@
 # gazstao DataExperiment1 2021-04-11 17h33
+# - Usa o arquivo JSON owid-covid-latest.json
+# - Mostrar algumas informações sobre o dado mais atual de alguns países
+# - Lista os países
 
 import json
 arquivo = "/Users/gazstao/github/covid-19-data/public/data/latest/owid-covid-latest.json"

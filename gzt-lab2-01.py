@@ -1,8 +1,16 @@
+# Gzt-Lab2-01 ---  2021-04-18 16h00 
+# - Pede a senha pra conectar no MongoDB na nuvem
+# - Procura pelo Banco de Dados
+# - Lista os locais com dados disponíveis
+# - Compila todos os dados do local
+# - Cria um gráfico com os dados obtidos
+# - Pede por um novo local para adicionar ao gráfico, ou
+# - Permite limpar o gráfico, listar os locais, ou sair do programa.
+
 import json
 import pymongo
 import sys
 import datetime
-import pprint
 import matplotlib.pyplot as plt
 
 #conStr = "mongodb://localhost:27017/"
@@ -52,8 +60,8 @@ def testaMongo(myclient):
 def conectaMongoDB(connectionString):
 
     try:
-        myclient = pymongo.MongoClient(connectionString.format(senha))
         print("Conectando :{}".format(connectionString))
+        myclient = pymongo.MongoClient(connectionString.format(senha))
         return myclient
 
     except:
@@ -112,7 +120,7 @@ while repeat:
 
             novos_casos = registro["new_cases_smoothed"]
             novas_mortes = registro["new_deaths_smoothed"]
-            pprint.pprint("{} - {} : Novos casos: {}              Novas mortes: {}".format(registro["location"], registro["date"], novos_casos, registro["new_deaths"]))
+            print("{} - {} : Novos casos: {}              Novas mortes: {}".format(registro["location"], registro["date"], novos_casos, registro["new_deaths"]))
 
             if (novos_casos != ""):
                 x.append(registro["date"])
