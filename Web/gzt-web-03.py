@@ -30,7 +30,7 @@ collName = "data20210420"
 imageDirName = "Vaccionation-Graphs"
 fileName = "Vaccination-Evolution-Graphic"
 
-htmlStart = '<!DOCTYPE html><html lang="en" dir="ltr">\n<head><meta charset="utf-8"><link rel="stylesheet" href="css/style.css"><title>Covid19 Vaccination Evolution by Country</title></head>\n<body><h1>Covid19 Vaccination Evolution by Country</h1><p><table><tr>\n'
+htmlStart = '<!DOCTYPE html><html lang="en" dir="ltr">\n<head><meta charset="utf-8"><link rel="shortcut icon"  type="image/x-icon" href="favicon.ico"><link rel="stylesheet" href="css/style.css"><title>Covid19 Vaccination Evolution by Country</title></head>\n<body><h1>Covid19 Vaccination Evolution by Country</h1><p><table><tr>\n'
 htmlEnd = '</t></table></p><div class="bloco end">by Gazstao 2021<br></div></body></html>'
 htmlMiddle = ''
 
@@ -125,6 +125,9 @@ listaLocais(coll)
 print("\n{}".format(htmlStart))
 
 for local in locaisDisponiveis:
+
+    plt.rc('grid', linestyle=':', color="lightgrey")
+    plt.grid()
 
     for registro in coll.find( { "location" : local , "newdeaths" : {"$ne" : "'"}}).sort("date", 1):
 

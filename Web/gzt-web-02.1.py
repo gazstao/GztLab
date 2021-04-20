@@ -24,6 +24,7 @@ import datetime
 import matplotlib.pyplot as plt
 import matplotlib.dates as mdates
 import numpy as np
+import ftplib
 
 conStr = "mongodb://localhost:27017/"
 #conStr = "mongodb+srv://owner:{}@cluster0.uvhcq.mongodb.net/"
@@ -128,6 +129,18 @@ db = clienteMongoDB[dbName]
 coll = db[collName]
 listaLocais(coll)
 
+session = ftplib.FTP(ftpCon, ftpUser, ftpPwd)
+dir = []
+session.dir(dir.append)
+for i in dir:
+    print ("-{}".format(i))
+try:
+    session.cwd("public_html/Data/")
+except:
+    print("Erro")
+session.close()
+sys.exit()
+
 print("\n{}".format(htmlStart))
 
 for local in locaisDisponiveis:
@@ -165,8 +178,14 @@ for local in locaisDisponiveis:
         htmlNovo='<th><a href="{}/{}" target="_blank"><figure><img src="{}/{}"><figcaption>{}-{}</figcaption></figure></a></th>\n'.format(imageDirName, nomeArq, imageDirName,nomeArqRed, local, registro["date"])
         htmlMiddle = htmlMiddle+htmlNovo
         plt.savefig("{}/{}".format(imageDirName, nomeArqRed), dpi=50)
+        file = open("{}/{}".format(imageDirName, nomeArqRed))
+        session.storbinary("{}/{}".format(imageDirName, nomeArqRed), file)
+        file.close()
         print(htmlNovo)
         plt.savefig("{}/{}".format(imageDirName, nomeArq), dpi=200)
+        file = open("{}/{}".format(imageDirName, nomeArq))
+        session.storbinary("{}/{}".format(imageDirName, nomeArq), file)
+        file.close()
 
         if ( (contagem%3)==0 ):
             htmlNovo = "</tr><tr>"
