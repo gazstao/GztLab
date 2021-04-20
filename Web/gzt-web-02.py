@@ -141,10 +141,14 @@ for local in locaisDisponiveis:
     print("\n{} - Adicionando {} registros de {} - {} e construindo gráfico".format( contagem, len(x),registro["location"], registro["date"]))
 
 
+    plt.rc('grid', linestyle=':', color="lightgrey")
+    plt.grid()
+
+
     plt.plot(x,yc, color="blue", label = "Novos Casos", linestyle = graphstyle, linewidth = 0.5)
     plt.plot(x,yd, color="green" , label = "Novas Mortes * {}".format(norm_factor), linestyle = graphstyle, linewidth = 0.5 )
 
-    plt.xticks(np.arange(0,len(x)+1,30), rotation=30, fontsize="x-small")
+    plt.xticks(np.arange(0,len(x)+1,20), rotation=30, fontsize="x-small")
 
     plt.legend()
     plt.title("Covid19 Evolution in {}".format(local))
