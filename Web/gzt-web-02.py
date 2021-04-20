@@ -22,6 +22,8 @@ import pymongo
 import sys
 import datetime
 import matplotlib.pyplot as plt
+import matplotlib.dates as mdates
+import numpy as np
 
 conStr = "mongodb://localhost:27017/"
 #conStr = "mongodb+srv://owner:{}@cluster0.uvhcq.mongodb.net/"
@@ -122,6 +124,8 @@ db = clienteMongoDB[dbName]
 coll = db[collName]
 listaLocais(coll)
 
+print("\n{}".format(htmlStart))
+
 for local in locaisDisponiveis:
 
     for registro in coll.find( { "location" : local , "newdeaths" : {"$ne" : "'"}}).sort("date", 1):
@@ -136,8 +140,11 @@ for local in locaisDisponiveis:
 
     print("\n{} - Adicionando {} registros de {} - {} e construindo gráfico".format( contagem, len(x),registro["location"], registro["date"]))
 
-    plt.plot(x,yc, color="blue", label = "Novos Casos", linestyle = graphstyle, linewidth = 1.0)
-    plt.plot(x,yd, color="green" , label = "Novas Mortes * {}".format(norm_factor), linestyle = graphstyle, linewidth = 1.0 )
+
+    plt.plot(x,yc, color="blue", label = "Novos Casos", linestyle = graphstyle, linewidth = 0.5)
+    plt.plot(x,yd, color="green" , label = "Novas Mortes * {}".format(norm_factor), linestyle = graphstyle, linewidth = 0.5 )
+
+    plt.xticks(np.arange(0,len(x),30), rotation=45, fontsize="x-small")
 
     plt.legend()
     plt.title("Covid19 Evolution in {}".format(local))
@@ -145,12 +152,13 @@ for local in locaisDisponiveis:
     plt.ylabel("Novos Casos vs Novas Mortes * {}".format(norm_factor))
     nomeArq = "{}-{}-{}.png".format(fileName, registro["date"], local)
     nomeArqRed = "{}-{}-{}-Small.png".format(fileName, registro["date"], local)
+
     if (len(x) > 1):
-        htmlNovo='<th><a href="{}/{}"><figure><img src="{}/{}"><figcaption>{}-{}</figcaption></figure></a></th>'.format(imageDirName, nomeArq, imageDirName,nomeArqRed, local, registro["date"])
+        htmlNovo='<th><a href="{}/{}" target="_blank"><figure><img src="{}/{}"><figcaption>{}-{}</figcaption></figure></a></th>'.format(imageDirName, nomeArq, imageDirName,nomeArqRed, local, registro["date"])
         htmlMiddle = htmlMiddle+htmlNovo
         plt.savefig("{}/{}".format(imageDirName, nomeArqRed), dpi=50)
         print(htmlNovo)
-        plt.savefig("{}/{}".format(imageDirName, nomeArq), dpi=300)
+        plt.savefig("{}/{}".format(imageDirName, nomeArq), dpi=200)
         if ( (contagem%3)==0 ):
             htmlNovo = "</tr><tr>"
             htmlMiddle = htmlMiddle+htmlNovo
@@ -169,11 +177,13 @@ for local in locaisDisponiveis:
 
 horaFinal = datetime.datetime.now()
 
-htmlFile = open("./index2.html", "w")
+htmlFile = open("./index.html", "w")
 htmlFile.write(htmlStart)
 htmlFile.write(htmlMiddle)
 htmlFile.write(htmlEnd)
 htmlFile.close()
+
+print(htmlEnd)
 
 print("Hora inicio: \t{}".format(horaInicio))
 print("Hora final: \t{}".format(horaFinal))
