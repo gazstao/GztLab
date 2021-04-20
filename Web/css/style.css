@@ -63,7 +63,6 @@ em{
 }
 
 img {
-  position: relative;
   border-radius: 1em;
   margin-bottom: 2rem;
 }
@@ -85,6 +84,5 @@ td, tr{
 }
 
 ul {
-  max-width: 80%;
   margin: 5em auto 5em auto;
 }

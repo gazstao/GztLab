@@ -1,4 +1,12 @@
 # Gzt-Web-01 2021-04-19 16h15
+
+# Antes de começar a usar o programa é necessário carregar os dados para o mongodb
+# Para isso, baixe o arquivo https://covid.ourworldindata.org/data/owid-covid-data.csv
+# e importe para o MongoDB usando o comando:
+# Para o MongoDB local: mongoimport --db NOME_DO_BANCO --collection NOME_DA_COLLECTION --file owid-covid-data.csv --type csv --headerline
+# Para o MongoDB na nuvem: mongoimport mongodb+srv://USUARIO:SENHA@cluster0.uvhcq.mongodb.net/NOME_DO_BANCO --collection NOME_DA_COLLECTION --file owid-covid-data.csv --type csv --headerline
+# Depois execute o programa e ele:
+
 # - Pede a senha pra conectar no MongoDB
 # - Procura pelo Banco de Dados
 # - Procura pelos locais com dados disponíveis
@@ -18,12 +26,12 @@ import matplotlib.pyplot as plt
 conStr = "mongodb://localhost:27017/"
 #conStr = "mongodb+srv://owner:{}@cluster0.uvhcq.mongodb.net/"
 dbName = "Data-Backup"
-collName = "data20210419"
+collName = "data20210420"
 imageDirName = "Covid19-Graphs"
 fileName = "Covid19-Evolution-Graphic"
 
-htmlStart = '<!DOCTYPE html><html lang="en" dir="ltr"><head><meta charset="utf-8"><link rel="stylesheet" href="css/style.css"><title>Covid-19 Evolution by Country</title></head><body><h1>Covid-19 Evolution by Country</h1>'
-htmlEnd = '<div class="bloco end">by Gazstao 2021<br></div></body></html>'
+htmlStart = '<!DOCTYPE html><html lang="en" dir="ltr"><head><meta charset="utf-8"><link rel="stylesheet" href="css/style.css"><title>Covid19 Evolution by Country</title></head><body><h1>Covid19 Evolution by Country</h1><p><table><tr>'
+htmlEnd = '</t></table></p><div class="bloco end">by Gazstao 2021<br></div></body></html>'
 htmlMiddle = ''
 
 norm_factor = 40
@@ -86,7 +94,7 @@ def conectaMongoDB(connectionString):
 
 locaisDisponiveis = []
 def listaLocais(collection):
-    print("------------  Locais disponíveis --------------")
+    print("Locais com dados disponíveis:")
     for registro in collection.find().distinct("location"):
         print ("{} , ".format(registro), end=" ")
         locaisDisponiveis.append(registro)
@@ -128,20 +136,26 @@ for local in locaisDisponiveis:
 
     print("\n{} - Adicionando {} registros de {} - {} e construindo gráfico".format( contagem, len(x),registro["location"], registro["date"]))
 
-#    plt.plot(x,yc, color="blue", label = "Novos Casos", linestyle = graphstyle, linewidth = 1.0)
-#    plt.plot(x,yd, color="green" , label = "Novas Mortes * {}".format(norm_factor), linestyle = graphstyle, linewidth = 1.0 )
+    plt.plot(x,yc, color="blue", label = "Novos Casos", linestyle = graphstyle, linewidth = 1.0)
+    plt.plot(x,yd, color="green" , label = "Novas Mortes * {}".format(norm_factor), linestyle = graphstyle, linewidth = 1.0 )
 
-#    plt.legend()
-    plt.title("Covid Evolution in {}".format(local))
+    plt.legend()
+    plt.title("Covid19 Evolution in {}".format(local))
     plt.xlabel("Data")
     plt.ylabel("Novos Casos vs Novas Mortes * {}".format(norm_factor))
     nomeArq = "{}-{}-{}.png".format(fileName, registro["date"], local)
+    nomeArqRed = "{}-{}-{}-Small.png".format(fileName, registro["date"], local)
     if (len(x) > 1):
-        htmlNovo='<img src="{}/{}" align="center"><br>'.format(imageDirName,nomeArq)
+        htmlNovo='<th><a href="{}"><figure><img src="{}/{}"><figcaption>{}-{}</figcaption></figure></a></th>'.format(nomeArq, imageDirName,nomeArqRed, local, registro["date"])
         htmlMiddle = htmlMiddle+htmlNovo
+        plt.savefig("{}/{}".format(imageDirName, nomeArqRed), dpi=50)
         print(htmlNovo)
-#        plt.savefig("./{}/Covid-Evolution-{}-{}.png".format(imageDirName, collName, local))
+        plt.savefig("{}/{}".format(imageDirName, nomeArq), dpi=300)
+        if ( (contagem%3)==0 ):
+            htmlNovo = "</tr><tr>"
+            htmlMiddle = htmlMiddle+htmlNovo
         contagem += 1
+
     else:
         print("Figura {}/{} não foi salva por falta de dados.".format(imageDirName, nomeArq))
     x.append(0)

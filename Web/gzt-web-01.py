@@ -23,7 +23,7 @@ imageDirName = "Covid19-Graphs"
 fileName = "Covid19-Evolution-Graphic"
 horaInicio = datetime.datetime.now()
 
-htmlStart = '<!DOCTYPE html><html lang="en" dir="ltr"><head><meta charset="utf-8"><link rel="stylesheet" href="css/style.css"><title>Covid-19 Evolution by Country</title></head><body><h1>Covid-19 Evolution by Country</h1><p>Atualizado em {}</p><br><ul>'.format(horaInicio)
+htmlStart = '<!DOCTYPE html><html lang="en" dir="ltr"><head><meta charset="utf-8"><link rel="stylesheet" href="css/style.css"><title>Covid19 Evolution by Country</title></head><body><h1>Covid19 Evolution by Country</h1><p>Atualizado em {}</p><br><ul>'.format(horaInicio)
 htmlEnd = '</ul><div class="bloco end">by Gazstao 2021<br>Dados retirados do projeto <a href="https://github.com/owid/covid-19-data/">Owid</a></div></body></html>'
 htmlMiddle = ''
 
