@@ -32,7 +32,7 @@ collName = "data20210420"
 imageDirName = "Covid19-Graphs"
 fileName = "Covid19-Evolution-Graphic"
 
-htmlStart = '<!DOCTYPE html><html lang="en" dir="ltr"><head><meta charset="utf-8"><link rel="stylesheet" href="css/style.css"><title>Covid19 Evolution by Country</title></head><body><h1>Covid19 Evolution by Country</h1><p><table><tr>'
+htmlStart = '<!DOCTYPE html><html lang="en" dir="ltr">\n<head><meta charset="utf-8"><link rel="stylesheet" href="css/style.css"><title>Covid19 Evolution by Country</title></head>\n<body><h1>Covid19 Evolution by Country</h1><p><table><tr>\n'
 htmlEnd = '</t></table></p><div class="bloco end">by Gazstao 2021<br></div></body></html>'
 htmlMiddle = ''
 
@@ -144,7 +144,7 @@ for local in locaisDisponiveis:
     plt.plot(x,yc, color="blue", label = "Novos Casos", linestyle = graphstyle, linewidth = 0.5)
     plt.plot(x,yd, color="green" , label = "Novas Mortes * {}".format(norm_factor), linestyle = graphstyle, linewidth = 0.5 )
 
-    plt.xticks(np.arange(0,len(x),30), rotation=45, fontsize="x-small")
+    plt.xticks(np.arange(0,len(x)+1,30), rotation=30, fontsize="x-small")
 
     plt.legend()
     plt.title("Covid19 Evolution in {}".format(local))
@@ -154,7 +154,7 @@ for local in locaisDisponiveis:
     nomeArqRed = "{}-{}-{}-Small.png".format(fileName, registro["date"], local)
 
     if (len(x) > 1):
-        htmlNovo='<th><a href="{}/{}" target="_blank"><figure><img src="{}/{}"><figcaption>{}-{}</figcaption></figure></a></th>'.format(imageDirName, nomeArq, imageDirName,nomeArqRed, local, registro["date"])
+        htmlNovo='<th><a href="{}/{}" target="_blank"><figure><img src="{}/{}"><figcaption>{}-{}</figcaption></figure></a></th>\n'.format(imageDirName, nomeArq, imageDirName,nomeArqRed, local, registro["date"])
         htmlMiddle = htmlMiddle+htmlNovo
         plt.savefig("{}/{}".format(imageDirName, nomeArqRed), dpi=50)
         print(htmlNovo)
