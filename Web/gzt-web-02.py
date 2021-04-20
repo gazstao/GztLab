@@ -146,7 +146,7 @@ for local in locaisDisponiveis:
     nomeArq = "{}-{}-{}.png".format(fileName, registro["date"], local)
     nomeArqRed = "{}-{}-{}-Small.png".format(fileName, registro["date"], local)
     if (len(x) > 1):
-        htmlNovo='<th><a href="{}"><figure><img src="{}/{}"><figcaption>{}-{}</figcaption></figure></a></th>'.format(nomeArq, imageDirName,nomeArqRed, local, registro["date"])
+        htmlNovo='<th><a href="{}/{}"><figure><img src="{}/{}"><figcaption>{}-{}</figcaption></figure></a></th>'.format(imageDirName, nomeArq, imageDirName,nomeArqRed, local, registro["date"])
         htmlMiddle = htmlMiddle+htmlNovo
         plt.savefig("{}/{}".format(imageDirName, nomeArqRed), dpi=50)
         print(htmlNovo)
