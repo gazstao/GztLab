@@ -36,6 +36,7 @@ fileName = "Covid19-Evolution-Graphic"
 ftpCon = "aztechtecnologia.com.br"
 ftpUser = "u529480143"
 ftpPwd = "aztech#3k19"
+ftpRemoteDir = "Data"
 
 htmlStart = '<!DOCTYPE html><html lang="en" dir="ltr">\n<head><link rel="shortcut icon"  type="image/x-icon" href="favicon.ico"><meta charset="utf-8"><link rel="stylesheet" href="css/style.css"><title>Covid19 Evolution by Country</title></head>\n<body><h1>Covid19 Evolution by Country</h1><p><table><tr>\n'
 htmlEnd = '</t></table></p><div class="bloco end">by Gazstao 2021<br></div></body></html>'
@@ -52,7 +53,7 @@ contagem = 1
 horaInicio = datetime.datetime.now()
 
 print("\n-----------------------------------------------\n"+
-"Gazstao DataCrunch v2.0 2021-04-18 21h45\nRodando em: "+
+"Gazstao DataCrunch v2.1 2021-04-20\nRodando em: "+
 "{}\n-----------------------------------------------".format(horaInicio))
 
 #senha = input("Qual a senha de conexão do Banco de Dados? ")
@@ -108,10 +109,28 @@ def listaLocais(collection):
     print (" iniciando compilação de dados.")
 
 #
+#   FTP Conection
+#
+
+def conectaFtp():
+    session = ftplib.FTP(ftpCon, ftpUser, ftpPwd)
+    dir = []
+    session.dir(dir.append)
+    for i in dir:
+        print ("-{}".format(i))
+    session.cwd("public_html")
+    dir = []
+    session.dir(dir.append)
+    for i in dir:
+        print ("-{}".format(i))
+    return session
+
+#
 #   EL PROGRAMO
 #
 
 try:
+    session = conectaFtp()
     clienteMongoDB = conectaMongoDB(conStr)
     testaMongo(clienteMongoDB)
 
@@ -128,18 +147,6 @@ except:
 db = clienteMongoDB[dbName]
 coll = db[collName]
 listaLocais(coll)
-
-session = ftplib.FTP(ftpCon, ftpUser, ftpPwd)
-dir = []
-session.dir(dir.append)
-for i in dir:
-    print ("-{}".format(i))
-try:
-    session.cwd("public_html/Data/")
-except:
-    print("Erro")
-session.close()
-sys.exit()
 
 print("\n{}".format(htmlStart))
 
@@ -179,12 +186,12 @@ for local in locaisDisponiveis:
         htmlMiddle = htmlMiddle+htmlNovo
         plt.savefig("{}/{}".format(imageDirName, nomeArqRed), dpi=50)
         file = open("{}/{}".format(imageDirName, nomeArqRed))
-        session.storbinary("{}/{}".format(imageDirName, nomeArqRed), file)
+        session.storbinary("{}".format(nomeArqRed),file)
         file.close()
         print(htmlNovo)
         plt.savefig("{}/{}".format(imageDirName, nomeArq), dpi=200)
         file = open("{}/{}".format(imageDirName, nomeArq))
-        session.storbinary("{}/{}".format(imageDirName, nomeArq), file)
+        session.storbinary("{}/{}/{}".format(ftpRemoteDir,imageDirName, nomeArq), file)
         file.close()
 
         if ( (contagem%3)==0 ):
