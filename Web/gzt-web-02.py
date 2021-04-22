@@ -28,13 +28,9 @@ import numpy as np
 conStr = "mongodb://localhost:27017/"
 #conStr = "mongodb+srv://owner:{}@cluster0.uvhcq.mongodb.net/"
 dbName = "Data-Backup"
-collName = "data20210420"
+collName = "data20210421"
 imageDirName = "Covid19-Graphs"
 fileName = "Covid19-Evolution-Graphic"
-
-ftpCon = "aztechtecnologia.com.br"
-ftpUser = "u529480143"
-ftpPwd = "aztech#3k19"
 
 htmlStart = '<!DOCTYPE html><html lang="en" dir="ltr">\n<head><link rel="shortcut icon"  type="image/x-icon" href="favicon.ico"><meta charset="utf-8"><link rel="stylesheet" href="css/style.css"><title>Covid19 Evolution by Country</title></head>\n<body><h1>Covid19 Evolution by Country</h1><p><table><tr>\n'
 htmlEnd = '</t></table></p><div class="bloco end">by Gazstao 2021<br></div></body></html>'

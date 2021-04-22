@@ -34,7 +34,7 @@ imageDirName = "Covid19-Graphs"
 fileName = "Covid19-Evolution-Graphic"
 
 ftpCon = "aztechtecnologia.com.br"
-ftpUser = "u529480143"
+ftpUser = ""
 ftpPwd = "aztech#3k19"
 ftpRemoteDir = "Data"
 
