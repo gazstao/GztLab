@@ -28,7 +28,7 @@ import numpy as np
 conStr = "mongodb://localhost:27017/"
 #conStr = "mongodb+srv://owner:{}@cluster0.uvhcq.mongodb.net/"
 dbName = "Data-Backup"
-collName = "data20210421"
+collName = "data20210422"
 imageDirName = "Covid19-Graphs"
 fileName = "Covid19-Evolution-Graphic"
 
@@ -158,7 +158,7 @@ for local in locaisDisponiveis:
     nomeArqRed = "{}-{}-{}-Small.png".format(fileName, registro["date"], local)
 
     if (len(x) > 1):
-        htmlNovo='<th><a href="{}/{}" target="_blank"><figure><img src="{}/{}"><figcaption>{}-{}</figcaption></figure></a></th>\n'.format(imageDirName, nomeArq, imageDirName,nomeArqRed, local, registro["date"])
+        htmlNovo='<th><a href="{}/{}" target="_blank"><figure><img src="{}/{}"><figcaption>{}</figcaption></figure></a></th>\n'.format(imageDirName, nomeArq, imageDirName,nomeArqRed, local)
         htmlMiddle = htmlMiddle+htmlNovo
         plt.savefig("{}/{}".format(imageDirName, nomeArqRed), dpi=50)
         print(htmlNovo)

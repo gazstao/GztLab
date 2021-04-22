@@ -1,2 +1,2 @@
 #!/bin/bash
-mongoimport --db Data-Backup --collection data20210421 --file owid-covid-data.csv --type csv --headerline
+mongoimport --db Data-Backup --collection data20210422 --file owid-covid-data.csv --type csv --headerline

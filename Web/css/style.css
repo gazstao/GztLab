@@ -29,6 +29,7 @@ a:visited {
 a:hover {
   color: black;
   border-radius:8px;
+  border-style: none;
 }
 
 a:active {
