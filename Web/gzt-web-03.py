@@ -26,7 +26,7 @@ import numpy as np
 conStr = "mongodb://localhost:27017/"
 #conStr = "mongodb+srv://owner:{}@cluster0.uvhcq.mongodb.net/"
 dbName = "Data-Backup"
-collName = "data20210420"
+collName = "data20210422"
 imageDirName = "Vaccionation-Graphs"
 fileName = "Vaccination-Evolution-Graphic"
 

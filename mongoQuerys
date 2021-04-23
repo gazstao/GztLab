@@ -1,0 +1,6 @@
+db.itens.insertOne(
+  { id: "01", name: "Caneta", preco : "1.50", reviews [
+      { Nome: "Joao da Silva", opiniao: "Simplesmente excelente caneta!", rating = 5},
+      { Nome : "Josefa Silva", opiniao: "Produto excelente!", rating= 4}
+      ]
+      })
